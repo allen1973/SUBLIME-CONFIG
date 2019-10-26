@@ -1,1121 +1,12 @@
 {
 	"folder_history":
 	[
-		"/D/website/gitgit/lot25",
-		"/D/sharetimeGIT/lot25",
-		"/D/website/lot25.sharetime.us/source",
-		"/D/website/ecshowcase2/wp-content/themes/mystile",
-		"/D/website/ecshowcase2/wp-content/plugins/plugins/woocommerce",
-		"/D/website/ecshowcase2",
-		"/D/website/nomura_code/nomura_code20170305",
-		"/D/website/TBAweb/TBA20170104",
-		"/D/website/TBAweb/TBA20170104/sass",
-		"/D/website/TBAweb/TBA_code20161212",
-		"/D/wordpress-starter",
-		"/C/SublimeText3/Data/Packages",
-		"/C/Users/sharetime/Google 雲端硬碟/json",
-		"/D/testgulp",
-		"/D/allen_self/SASS Snippets cht",
-		"/D/allen_self/DWSnippets/Bootstrap_Snippets/Thumbnails",
-		"/D/allen_self/DWSnippets/HTML_Snippets",
-		"/C/xampp/htdocs/wordpress",
-		"/D/website/TBAweb",
-		"/D/website/ohshu/ohushu-front.sharetime.us",
-		"/D/website/lot25/Lot25/Views",
-		"/D/website/ShinKongBank/722",
-		"/C/Users/sharetime/Google 雲端硬碟/ShinKongBank/source/partials",
-		"/C/Users/sharetime/Google 雲端硬碟/ShinKongBank/HTML",
-		"/D/website/信用卡子專區-20160719/source",
-		"/D/website/投資理財0714/site",
-		"/D/website/ShinKongBank/www",
-		"/C/xampp/htdocs/hnycn/nyc_new",
-		"/D/firefire/firefire",
-		"/D/firefire/firefire/sass",
-		"/D/website/hello/201607",
-		"/D/allen_self/新增資料夾/testhtml",
-		"/C/Users/sharetime/Downloads/dynamic-news-lite.1.3.8",
-		"/C/xampp/htdocs/toyomu",
-		"/C/xampp/htdocs/toyo",
-		"/D/website/toyo",
-		"/C/xampp/htdocs/WP/wp-content",
-		"/D/website/hello",
-		"/D/website/ST2DEPLOY",
-		"/D/website/ST2DEPLOY/Views/Default",
-		"/D/website/toyomura",
-		"/D/website/code",
-		"/D/allen_self/CSS3 by amos/CSS3 by amos",
-		"/D/website/ree",
-		"/C/Users/sharetime/Downloads/theme_export__sharetw-myshopify-com-allentestbar__12MAY2016-0609am",
-		"/C/Users/sharetime/Downloads/theme_export__sharetw-myshopify-com-boundless__12MAY2016-0500am",
-		"/C/Users/sharetime/Downloads/sharetw-myshopify-com-launchpad-star",
-		"/C/Users/sharetime/Downloads/sharetw-myshopify-com-jumpstart",
-		"/C/Users/sharetime/Downloads/sharetw-myshopify-com-boundless",
-		"/C/Users/sharetime/Downloads/theme_export__sharetw-myshopify-com-boundless__12MAY2016-0500am/sharetw-myshopify-com-boundless",
-		"/D/his_coupon",
-		"/D/testsass",
-		"/D/wordpress/hasSCSS/arcade-basic.1.0.7",
-		"/D/wordpress/有SCSS/arcade-basic.1.0.7",
-		"/D/allen_self/f2e-master/complete",
-		"/E/20160301/f2e-master/complete",
-		"/D/website/tempsite",
-		"/D/website/chao_webserver"
 	],
-	"last_version": 3211,
-	"last_window_id": 86,
+	"last_version": 3083,
+	"last_window_id": 1,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 804.0,
-		"new_window_settings":
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"ba",
-						"background-position"
-					],
-					[
-						"ma",
-						"margin-bottom"
-					],
-					[
-						"margin-",
-						"margin-bottom"
-					],
-					[
-						"鉛筆",
-						"鉛筆\tfai-鉛筆"
-					],
-					[
-						"border",
-						"border-radius"
-					],
-					[
-						"箭頭",
-						"箭頭\tbsi-粗飛鏢-向右"
-					],
-					[
-						"max",
-						"max-height"
-					],
-					[
-						"mar",
-						"margin"
-					],
-					[
-						"font",
-						"font-family"
-					],
-					[
-						"ove",
-						"overflow-y"
-					],
-					[
-						"borde",
-						"border-radius"
-					],
-					[
-						"tex",
-						"text-decoration"
-					],
-					[
-						"margin",
-						"margin-right"
-					],
-					[
-						"減號",
-						"減號\tfai-減號"
-					],
-					[
-						"pa",
-						"padding-left"
-					],
-					[
-						"f",
-						"float"
-					],
-					[
-						"加號",
-						"加號\tfai-加號"
-					],
-					[
-						"padding",
-						"padding"
-					],
-					[
-						"bord",
-						"border-radius"
-					],
-					[
-						"padd",
-						"padding"
-					],
-					[
-						"bac",
-						"background-color"
-					],
-					[
-						"bor",
-						"border"
-					],
-					[
-						"陰影",
-						"陰影\tCCSS_文字陰影"
-					],
-					[
-						"bi",
-						"background-image"
-					],
-					[
-						"飛機",
-						"飛機\tfai-火箭"
-					],
-					[
-						"min",
-						"min-height"
-					],
-					[
-						"text",
-						"text-align"
-					],
-					[
-						"m",
-						"margin"
-					],
-					[
-						"禮物",
-						"禮物\tfai-禮物"
-					],
-					[
-						"時鐘",
-						"時鐘\tfai-時鐘"
-					],
-					[
-						"話筒",
-						"話筒\tfai-電話聽筒"
-					],
-					[
-						"圖釘",
-						"圖釘\tfai-圖釘"
-					],
-					[
-						"rad",
-						"border-radius"
-					],
-					[
-						"對話框",
-						"對話框\tfai-對話框-實心有點點點"
-					],
-					[
-						"back",
-						"background-color"
-					],
-					[
-						"sty",
-						"style\tAttr"
-					],
-					[
-						"cont",
-						"content"
-					],
-					[
-						"i",
-						"inherit"
-					],
-					[
-						"le",
-						"letter-spacing"
-					],
-					[
-						"bot",
-						"border-bottom"
-					],
-					[
-						"cl",
-						"clear"
-					],
-					[
-						"書籤",
-						"書籤\tfai-書籤-實心"
-					],
-					[
-						"信封",
-						"信封\tfai-信封黑"
-					],
-					[
-						"會員",
-						"會員\tfai-使用者"
-					],
-					[
-						"放大鏡",
-						"放大鏡\tfai-放大鏡"
-					],
-					[
-						"background",
-						"background-color"
-					],
-					[
-						"backr",
-						"background-color"
-					],
-					[
-						"n",
-						"no-repeat"
-					],
-					[
-						"地球",
-						"地球\tfai-地球"
-					],
-					[
-						"地圖",
-						"地圖\tbsi-地圖圖標"
-					],
-					[
-						"texr",
-						"text-decoration"
-					],
-					[
-						"un",
-						"text-underline-position"
-					],
-					[
-						"bo",
-						"border-style"
-					],
-					[
-						"字型",
-						"字型\tCCSS_文字_日英"
-					],
-					[
-						"購物車",
-						"購物車\tfai-購物車"
-					],
-					[
-						"房子",
-						"房子\tfai-大樓-實心"
-					],
-					[
-						"動畫",
-						"動畫\tCCSS_動畫_單行縮寫"
-					],
-					[
-						"漸層",
-						"漸層\tCCSS_線性漸層色彩"
-					],
-					[
-						"con",
-						"content"
-					],
-					[
-						"pad",
-						"padding-top"
-					],
-					[
-						"border-",
-						"border-bottom"
-					],
-					[
-						"nth-of",
-						"nth-of-type"
-					],
-					[
-						"v",
-						"visible"
-					],
-					[
-						"mat",
-						"margin-top"
-					],
-					[
-						"border-r",
-						"border-right"
-					],
-					[
-						"in",
-						"inline-block"
-					],
-					[
-						"balc",
-						"background-color"
-					],
-					[
-						"marg",
-						"margin-right"
-					],
-					[
-						"fo",
-						"font-weight"
-					],
-					[
-						"paddi",
-						"padding-left"
-					],
-					[
-						"font-",
-						"font-family"
-					],
-					[
-						"margt",
-						"margin-right"
-					],
-					[
-						"inl",
-						"inline-block"
-					],
-					[
-						"ta",
-						"table-cell"
-					],
-					[
-						"tab",
-						"table-cell"
-					],
-					[
-						"list",
-						"list-item"
-					],
-					[
-						"bacc",
-						"background-color"
-					],
-					[
-						"backg",
-						"background-position"
-					],
-					[
-						"di",
-						"disc"
-					],
-					[
-						"va",
-						"vertical-align"
-					],
-					[
-						"cu",
-						"cursor"
-					],
-					[
-						"max-",
-						"max-height"
-					],
-					[
-						"paddin",
-						"padding-bottom"
-					],
-					[
-						"abs",
-						"absolute"
-					],
-					[
-						"stl",
-						"style\tAttr"
-					],
-					[
-						"foz",
-						"font-size"
-					],
-					[
-						"hid",
-						"hidemobile"
-					],
-					[
-						"sur",
-						"surveyli"
-					],
-					[
-						"image-",
-						"border-image-source"
-					],
-					[
-						"fon",
-						"font-size"
-					],
-					[
-						"pos",
-						"position"
-					],
-					[
-						"li",
-						"line-height"
-					],
-					[
-						"table",
-						"table-cell"
-					],
-					[
-						"co",
-						"collapse"
-					],
-					[
-						"border-c",
-						"border-collapse"
-					],
-					[
-						"inc",
-						"include\t@include"
-					],
-					[
-						"border-bo",
-						"border-bottom"
-					],
-					[
-						"das",
-						"dashed"
-					],
-					[
-						"ce",
-						"center"
-					],
-					[
-						"re",
-						"relative"
-					],
-					[
-						"cur",
-						"cursor"
-					],
-					[
-						"wid",
-						"width"
-					],
-					[
-						"boe",
-						"border-bottom"
-					],
-					[
-						"nth",
-						"nth-child"
-					],
-					[
-						"vl",
-						"vertical-align"
-					],
-					[
-						"字",
-						"字\t@font-face SASS"
-					],
-					[
-						"混",
-						"混\t@mixin SASS"
-					],
-					[
-						"mag",
-						"margin-bottom"
-					],
-					[
-						"bacl",
-						"background-color"
-					],
-					[
-						"po",
-						"position"
-					],
-					[
-						"對齊",
-						"對齊\tCCSS_文字置中"
-					],
-					[
-						"flo",
-						"float"
-					],
-					[
-						"ov",
-						"overflow"
-					],
-					[
-						"lin",
-						"line-height"
-					],
-					[
-						"list-s",
-						"list-style"
-					],
-					[
-						"hei",
-						"height"
-					],
-					[
-						"vai",
-						"_nm_variables"
-					],
-					[
-						"op",
-						"opacity"
-					],
-					[
-						"tra",
-						"transparent"
-					],
-					[
-						"dis",
-						"display"
-					],
-					[
-						"lit",
-						"list-style-type"
-					],
-					[
-						"he",
-						"height\tAttr"
-					],
-					[
-						"text-",
-						"text-decoration"
-					],
-					[
-						"te",
-						"text-orientation"
-					],
-					[
-						"popup-",
-						"popup-block"
-					],
-					[
-						"WID",
-						"width"
-					],
-					[
-						"font-s",
-						"font-size"
-					],
-					[
-						"bl",
-						"block"
-					]
-				]
-			},
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 283.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"pc",
-						"Package Control: Install Package"
-					],
-					[
-						"json",
-						"Set Syntax: JSON"
-					],
-					[
-						"html",
-						"Set Syntax: HTML"
-					],
-					[
-						"bs3",
-						"Snippet: bs3-標籤面板tabs"
-					],
-					[
-						"pci",
-						"Package Control: Install Package"
-					],
-					[
-						"bs3 ",
-						"Snippet: bs3-html-樣板online"
-					],
-					[
-						"email",
-						"Snippet: emailboiler"
-					],
-					[
-						"b",
-						"Snippet: Breadcrumbs"
-					],
-					[
-						"css",
-						"Snippet: cssc3nter"
-					],
-					[
-						"scss",
-						"Set Syntax: SCSS"
-					],
-					[
-						"Package Control: ",
-						"Package Control: List Packages"
-					],
-					[
-						"sass",
-						"Set Syntax: Sass"
-					],
-					[
-						"php",
-						"Set Syntax: PHP"
-					],
-					[
-						"bs3tab",
-						"Snippet: bs3-標籤面板tabs"
-					],
-					[
-						"bre",
-						"Snippet: Breadcrumbs"
-					],
-					[
-						"go2bss",
-						"go2bs: Customize"
-					],
-					[
-						"",
-						"Bookmarks: Select Next"
-					],
-					[
-						"go2",
-						"go2bs: Examples"
-					],
-					[
-						"goto bootstrap",
-						"Goto Bootstrap: CSS"
-					],
-					[
-						"Package Control: i",
-						"Package Control: Install Package"
-					],
-					[
-						"PCI",
-						"Package Control: Install Package"
-					],
-					[
-						"bs3t",
-						"Snippet: bs3-html-樣板online"
-					],
-					[
-						"i",
-						"Package Control: Install Package"
-					],
-					[
-						"BS",
-						"Snippet: bs3-2欄84"
-					],
-					[
-						"bs",
-						"Snippet: bs3-2欄84"
-					],
-					[
-						"in",
-						"Package Control: Install Package"
-					],
-					[
-						"bs3-",
-						"Snippet: bs3-路徑列breadcrumbs"
-					],
-					[
-						"inp",
-						"Package Control: Install Package"
-					],
-					[
-						"bs3cdn",
-						"Snippet: bs3-cdn-js"
-					],
-					[
-						"bs3-tab",
-						"Snippet: bs3-標籤面板tabs"
-					],
-					[
-						"bs3表",
-						"Snippet: bs3-表單群組"
-					],
-					[
-						"Grid",
-						"Snippet: scss-grid"
-					],
-					[
-						"bs幻",
-						"Snippet: bs3-幻燈片"
-					],
-					[
-						"bs3te",
-						"Snippet: bs3-template.starter"
-					],
-					[
-						"bs3res",
-						"Snippet: bs3-navbar-responsive"
-					],
-					[
-						"bs3na",
-						"Snippet: bs3-navbar-responsive"
-					],
-					[
-						"cdn",
-						"Snippet: bs3-cdn-js"
-					],
-					[
-						"jq",
-						"Snippet: jq - load"
-					],
-					[
-						"bs3幻",
-						"Snippet: bs3-幻燈片"
-					],
-					[
-						"bs3footer",
-						"Snippet: bs3-panel-footer"
-					],
-					[
-						"CCSS_樣式",
-						"Snippet: CCSS_樣式"
-					],
-					[
-						"bs32",
-						"Snippet: bs3-2欄66"
-					],
-					[
-						"bs3n",
-						"Snippet: bs3-navbar"
-					],
-					[
-						"bs3f",
-						"Snippet: bs3-form-inline"
-					],
-					[
-						"bs3c",
-						"Snippet: bs3-col-12"
-					],
-					[
-						"clea",
-						"Snippet: bs3-clearfix"
-					],
-					[
-						"ccss t",
-						"Snippet: CCSS_速度設定_ease-out"
-					],
-					[
-						"ccss",
-						"Snippet: CCSS_動畫_單行縮寫"
-					],
-					[
-						"favicon",
-						"Snippet: ui-favorite-icon"
-					],
-					[
-						"bs3tem",
-						"Snippet: bs3-template.starter"
-					],
-					[
-						"ccss ",
-						"Snippet: CCSS_圓形"
-					],
-					[
-						"BS3",
-						"Snippet: bs3-3欄363"
-					],
-					[
-						"bs3nav",
-						"Snippet: bs3-navbar-responsive"
-					],
-					[
-						"bs3j",
-						"Snippet: bs3-cdn-js"
-					],
-					[
-						"edm",
-						"Snippet: EDM-borderbutton"
-					],
-					[
-						"2col",
-						"Snippet: 2col"
-					],
-					[
-						"inp:",
-						"Snippet: HTML - Input:checkbox"
-					],
-					[
-						"bs3樣",
-						"Snippet: bs3-html-樣板"
-					],
-					[
-						"bs3ne",
-						"Snippet: bs3-navbar-responsive"
-					],
-					[
-						"bs3html",
-						"Snippet: bs3-html5-template"
-					],
-					[
-						"ps3cdn",
-						"Snippet: bs3-cdn"
-					],
-					[
-						"bs3-j",
-						"Snippet: bs3-cdn-js"
-					],
-					[
-						"BS3 TA",
-						"Snippet: bs3-table"
-					],
-					[
-						"hm",
-						"Set Syntax: HTML"
-					],
-					[
-						"p",
-						"Package Control: List Packages"
-					],
-					[
-						"bs3 temp",
-						"Snippet: bs3-html5-template"
-					],
-					[
-						"co",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 1142.0
-			},
-			"console":
-			{
-				"height": 723.0,
-				"history":
-				[
-					"go bootstrap",
-					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
-					"sublime-snippet-destroyer",
-					"Extract Sublime Package: Extract all packages",
-					"cc.*",
-					"cc",
-					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/E/20170627/Users/tbook/.v8flags.5.1.281.88.tbook.jso.json",
-				"/E/20170627/Users/Default/NTUSER.DAT",
-				"/C/Users/sharetime/Downloads/suzuki_www_mysql_20170627/js/main.js",
-				"/C/Users/sharetime/Downloads/suzuki_www_mysql_20170627/game/index.html",
-				"/C/Users/sharetime/Downloads/suzuki_www_mysql_20170627/game/include/popup-modal3.html",
-				"/C/Users/sharetime/Downloads/suzuki_www_mysql_20170627/game/include/footer.html",
-				"/C/Users/sharetime/Downloads/suzuki_www_mysql_20170627/game/include/header.html",
-				"/C/Users/sharetime/Downloads/suzuki_www_mysql_20170627/game/include/js.html",
-				"/C/Users/sharetime/Downloads/suzuki_www_mysql_20170627/game/include/navigation.html",
-				"/C/Users/sharetime/Downloads/suzuki_www_mysql_20170627/game/include/popup-modal1.html",
-				"/C/Users/sharetime/Downloads/suzuki_www_mysql_20170627/game/include/popup-modal2.html",
-				"/C/Users/sharetime/Downloads/suzuki_www_mysql_20170627/game/include/popup-modal2-1.html",
-				"/C/Users/sharetime/Desktop/新增資料夾 (2)/ryx2..html",
-				"/C/Users/sharetime/Desktop/bs4-.html",
-				"/C/Users/sharetime/Desktop/charming-0.6.0/gulpfile_ch.js",
-				"/C/Users/sharetime/Desktop/charming-0.6.0/package.json",
-				"/C/Users/sharetime/Downloads/suzuki_www_mysql_20170627/index.php",
-				"/C/Users/sharetime/Downloads/suzuki_www_mysql_20170627/application/views/index.html",
-				"/C/Users/sharetime/Downloads/suzuki_www_mysql_20170627/index.html",
-				"/C/Users/sharetime/Desktop/charming-0.6.0/Developer-License.txt",
-				"/C/Users/sharetime/Desktop/新增資料夾 (2)/roma_termini.html",
-				"/D/website/ohshu/ohushu-front.sharetime.us/ryt/ryt2.html",
-				"/D/website/ohshu/ohushu-front.sharetime.us/ryt/ryx2.htmlold.html",
-				"/D/website/gitgit/lot25/art/t/back/backForm.htm",
-				"/D/website/gitgit/lot25/art/t/index.htm",
-				"/D/website/gitgit/lot25/application/views/templates/member/forgotPasswordForm.tpl",
-				"/D/website/gitgit/lot25/source/mem_signup.html",
-				"/D/website/gitgit/lot25/source/21.html",
-				"/D/website/gitgit/lot25/application/views/templates/index.tpl",
-				"/D/website/gitgit/lot25/application/views/templates/member/loginForm.tpl",
-				"/D/website/gitgit/lot25/application/views/templates/member/member.tpl",
-				"/D/website/gitgit/lot25/application/views/templates/member/resetPasswordForm.tpl",
-				"/D/website/gitgit/lot25/application/views/templates/member/signUpForm.tpl",
-				"/D/website/gitgit/lot25/application/views/templates/member/editProfileForm.tpl",
-				"/D/website/gitgit/lot25/application/views/templates/common/menu.tpl",
-				"/D/website/gitgit/lot25/source/scss/all.scss",
-				"/D/website/gitgit/lot25/source/07.html",
-				"/D/website/gitgit/lot25/source/08.html",
-				"/D/website/gitgit/lot25/source/09.html",
-				"/D/website/gitgit/lot25/source/10.html",
-				"/D/website/gitgit/lot25/source/11.html",
-				"/D/website/gitgit/lot25/source/12.html",
-				"/D/website/gitgit/lot25/source/13.html",
-				"/D/website/ohshu/ohushu-front.sharetime.us/ryt/ryt-ryp-ryo_new.html",
-				"/D/website/gitgit/lot25/source/14.html",
-				"/D/website/gitgit/lot25/source/16.html",
-				"/D/website/gitgit/lot25/source/17.html",
-				"/D/website/gitgit/lot25/source/18.html",
-				"/D/website/gitgit/lot25/source/19.html",
-				"/D/website/gitgit/lot25/source/20.html",
-				"/D/website/gitgit/lot25/source/index.html",
-				"/D/website/ohshu/ohushu-front.sharetime.us/ryt/css/basic.css",
-				"/D/website/ohshu/ohushu-front.sharetime.us/ryt/css/bootstrap.min.css",
-				"/D/website/ohshu/ohushu-front.sharetime.us/ryt/css/ohshumap.css",
-				"/D/website/ohshu/ohushu-front.sharetime.us/ryt/css/popup.css",
-				"/D/website/gitgit/lot25/source/15.html",
-				"/D/website/gitgit/lot25/source/22.html",
-				"/D/website/gitgit/lot25/source/24.html",
-				"/D/website/gitgit/lot25/source/25.html",
-				"/D/website/gitgit/lot25/source/26.html",
-				"/D/website/gitgit/lot25/source/29.html",
-				"/C/Users/sharetime/Google 雲端硬碟/Untitled.scad",
-				"/D/allen_self/appStrap/allentry/npm-debug.log",
-				"/C/Users/sharetime/Google 雲端硬碟/scan/Untitled Diagram.html",
-				"/D/website/gitgit/gulphtml/~gulp/gulpfile.js",
-				"/C/Users/sharetime/Desktop/yelp.js",
-				"/D/website/gitgit/lot25/art/24.html",
-				"/D/website/gitgit/lot25/art/mem_signup.html",
-				"/D/website/ohshu/admin/gulpfile.js",
-				"/D/website/ohshu/admin/README.md",
-				"/D/website/ohshu/admin/shared/jade/1/a-rrl1.jade",
-				"/D/website/ohshu/admin/shared/jade/setting.json",
-				"/D/website/ohshu/admin/shared/jade/index.jade",
-				"/D/website/gitgit/gulphtml/ci_template_library3/Template.php",
-				"/C/Users/sharetime/Desktop/times.html",
-				"/C/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.22/lib/sass/engine.rb",
-				"/D/website/futures/index.html",
-				"/D/website/futures/css/style.css",
-				"/C/Users/sharetime/Desktop/pagination.html",
-				"/D/website/futures/.git/description",
-				"/D/website/futures/.git/HEAD",
-				"/C/Users/sharetime/Desktop/111.html",
-				"/D/website/futures/.git/config",
-				"/C/Users/sharetime/Downloads/Visual Composer v5.0.1/js_composer/changes.txt",
-				"/C/Users/sharetime/Downloads/Visual Composer v5.0.1/js_composer/credits.txt",
-				"/C/Users/sharetime/Desktop/yuhrenhuang.vcf",
-				"/C/Users/sharetime/Desktop/2 Column.bscomp",
-				"/D/allen_self/appStrap/allentry/gulpfile.js",
-				"/D/allen_self/appStrap/allentry/assets/scss/README.txt",
-				"/D/allen_self/appStrap/allentry/assets/scss/theme-admin-style.scss",
-				"/D/allen_self/appStrap/allentry/assets/scss/custom-style.scss",
-				"/D/allen_self/appStrap/allentry/assets/scss/custom/_custom-style.scss",
-				"/D/allen_self/appStrap/allentry/assets/scss/custom/_custom-variables.scss",
-				"/D/allen_self/appStrap/allentry/assets/scss/colour-variations/README.txt",
-				"/D/allen_self/appStrap/allentry/assets/scss/colour-variations/colour-blue-dark.scss",
-				"/D/allen_self/appStrap/allentry/package.json",
-				"/D/allen_self/appStrap/README.txt",
-				"/D/allen_self/appStrap/documentation/README.txt",
-				"/D/allen_self/appStrap/allentry/elements-tables.htm",
-				"/C/Users/sharetime/Desktop/Lot25/Lot25/plugin/menu/addTextbox/jquery-1.9.1.js",
-				"/C/Users/sharetime/Desktop/Lot25/Lot25/plugin/menu/addTextbox/add_textbox.html",
-				"/D/website/gitgit/lot25/source/menuadd.html",
-				"/C/Program Files (x86)/Pingendo 4/icudtl.dat",
-				"/C/Program Files (x86)/Pingendo 4/blink_image_resources_200_percent.pak",
-				"/C/Program Files (x86)/Pingendo 4/content_resources_200_percent.pak",
-				"/C/Program Files (x86)/Pingendo 4/resources/app/package.json",
-				"/C/Program Files (x86)/Pingendo 4/resources/app/main.js",
-				"/D/website/gitgit/lot25/art/js/jquery-ui.js",
-				"/C/Users/sharetime/Desktop/Lot25/Lot25/plugin/menu/addTextbox/jquery-ui.css",
-				"/D/website/gitgit/lot25/art/LOT 25_files/style.css",
-				"/D/website/gitgit/lot25/art/ulploadimg.html",
-				"/D/website/gitgit/lot25/art/LOT 25_files/jquery.uploadfile.js",
-				"/C/Users/sharetime/Desktop/Lot25/Lot25/plugin/menu/addTextbox/jquery-ui.js",
-				"/D/sharetimeGIT/lot25/bower.json",
-				"/D/website/gitgit/lot25/source/tempitem.html",
-				"/D/allen_self/appStrap/theme/gulpfile-ch.js",
-				"/D/allen_self/appStrap/theme/package.json",
-				"/D/website/gitgit/lot25/source/idont.html",
-				"/D/website/gitgit/lot25/source/shoplist.html",
-				"/C/Users/sharetime/Desktop/wwwww.txt",
-				"/C/Users/sharetime/Desktop/products%2FWB0412697/Unify-v1.9.9/Documentation/.editorconfig",
-				"/C/Users/sharetime/Desktop/products%2FWB0412697/Unify-v1.9.9/PSD/README.txt",
-				"/D/website/gitgit/lot25/source/000.html",
-				"/D/sharetimeGIT/lot25/config.rb",
-				"/D/sharetimeGIT/lot25/package.json",
-				"/D/website/gitgit/lot25/art/LOT 25_files/vt(2)",
-				"/C/Users/sharetime/Desktop/products%2FWB0412697/Unify-v1.9.9/changelog.txt",
-				"/D/sharetimeGIT/lot25/gulpfile.js"
-			],
-			"find":
-			{
-				"height": 35.0
-			},
-			"find_in_files":
-			{
-				"height": 162.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": true,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 35.0
-			},
-			"input":
-			{
-				"height": 35.0
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 194.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"output.sftp":
-			{
-				"height": 0.0
-			},
-			"pinned_build_system": "",
-			"replace":
-			{
-				"height": 66.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 282.0,
-			"status_bar_visible": false,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 1055.0
 	},
 	"windows":
 	[
@@ -1124,536 +15,33 @@
 			{
 				"selected_items":
 				[
-					[
-						"ba",
-						"background-position"
-					],
-					[
-						"ma",
-						"margin-bottom"
-					],
-					[
-						"margin-",
-						"margin-bottom"
-					],
-					[
-						"鉛筆",
-						"鉛筆\tfai-鉛筆"
-					],
-					[
-						"border",
-						"border-radius"
-					],
-					[
-						"箭頭",
-						"箭頭\tbsi-粗飛鏢-向右"
-					],
-					[
-						"max",
-						"max-height"
-					],
-					[
-						"mar",
-						"margin"
-					],
-					[
-						"font",
-						"font-family"
-					],
-					[
-						"ove",
-						"overflow-y"
-					],
-					[
-						"borde",
-						"border-radius"
-					],
-					[
-						"tex",
-						"text-decoration"
-					],
-					[
-						"margin",
-						"margin-right"
-					],
-					[
-						"減號",
-						"減號\tfai-減號"
-					],
-					[
-						"pa",
-						"padding-left"
-					],
-					[
-						"f",
-						"float"
-					],
-					[
-						"加號",
-						"加號\tfai-加號"
-					],
-					[
-						"padding",
-						"padding"
-					],
-					[
-						"bord",
-						"border-radius"
-					],
-					[
-						"padd",
-						"padding"
-					],
-					[
-						"bac",
-						"background-color"
-					],
-					[
-						"bor",
-						"border"
-					],
-					[
-						"陰影",
-						"陰影\tCCSS_文字陰影"
-					],
-					[
-						"bi",
-						"background-image"
-					],
-					[
-						"飛機",
-						"飛機\tfai-火箭"
-					],
-					[
-						"min",
-						"min-height"
-					],
-					[
-						"text",
-						"text-align"
-					],
-					[
-						"m",
-						"margin"
-					],
-					[
-						"禮物",
-						"禮物\tfai-禮物"
-					],
-					[
-						"時鐘",
-						"時鐘\tfai-時鐘"
-					],
-					[
-						"話筒",
-						"話筒\tfai-電話聽筒"
-					],
-					[
-						"圖釘",
-						"圖釘\tfai-圖釘"
-					],
-					[
-						"rad",
-						"border-radius"
-					],
-					[
-						"對話框",
-						"對話框\tfai-對話框-實心有點點點"
-					],
-					[
-						"back",
-						"background-color"
-					],
-					[
-						"sty",
-						"style\tAttr"
-					],
-					[
-						"cont",
-						"content"
-					],
-					[
-						"i",
-						"inherit"
-					],
-					[
-						"le",
-						"letter-spacing"
-					],
-					[
-						"bot",
-						"border-bottom"
-					],
-					[
-						"cl",
-						"clear"
-					],
-					[
-						"書籤",
-						"書籤\tfai-書籤-實心"
-					],
-					[
-						"信封",
-						"信封\tfai-信封黑"
-					],
-					[
-						"會員",
-						"會員\tfai-使用者"
-					],
-					[
-						"放大鏡",
-						"放大鏡\tfai-放大鏡"
-					],
-					[
-						"background",
-						"background-color"
-					],
-					[
-						"backr",
-						"background-color"
-					],
-					[
-						"n",
-						"no-repeat"
-					],
-					[
-						"地球",
-						"地球\tfai-地球"
-					],
-					[
-						"地圖",
-						"地圖\tbsi-地圖圖標"
-					],
-					[
-						"texr",
-						"text-decoration"
-					],
-					[
-						"un",
-						"text-underline-position"
-					],
-					[
-						"bo",
-						"border-style"
-					],
-					[
-						"字型",
-						"字型\tCCSS_文字_日英"
-					],
-					[
-						"購物車",
-						"購物車\tfai-購物車"
-					],
-					[
-						"房子",
-						"房子\tfai-大樓-實心"
-					],
-					[
-						"動畫",
-						"動畫\tCCSS_動畫_單行縮寫"
-					],
-					[
-						"漸層",
-						"漸層\tCCSS_線性漸層色彩"
-					],
-					[
-						"con",
-						"content"
-					],
-					[
-						"pad",
-						"padding-top"
-					],
-					[
-						"border-",
-						"border-bottom"
-					],
-					[
-						"nth-of",
-						"nth-of-type"
-					],
-					[
-						"v",
-						"visible"
-					],
-					[
-						"mat",
-						"margin-top"
-					],
-					[
-						"border-r",
-						"border-right"
-					],
-					[
-						"in",
-						"inline-block"
-					],
-					[
-						"balc",
-						"background-color"
-					],
-					[
-						"marg",
-						"margin-right"
-					],
-					[
-						"fo",
-						"font-weight"
-					],
-					[
-						"paddi",
-						"padding-left"
-					],
-					[
-						"font-",
-						"font-family"
-					],
-					[
-						"margt",
-						"margin-right"
-					],
-					[
-						"inl",
-						"inline-block"
-					],
-					[
-						"ta",
-						"table-cell"
-					],
-					[
-						"tab",
-						"table-cell"
-					],
-					[
-						"list",
-						"list-item"
-					],
-					[
-						"bacc",
-						"background-color"
-					],
-					[
-						"backg",
-						"background-position"
-					],
-					[
-						"di",
-						"disc"
-					],
-					[
-						"va",
-						"vertical-align"
-					],
-					[
-						"cu",
-						"cursor"
-					],
-					[
-						"max-",
-						"max-height"
-					],
-					[
-						"paddin",
-						"padding-bottom"
-					],
-					[
-						"abs",
-						"absolute"
-					],
-					[
-						"stl",
-						"style\tAttr"
-					],
-					[
-						"foz",
-						"font-size"
-					],
-					[
-						"hid",
-						"hidemobile"
-					],
-					[
-						"sur",
-						"surveyli"
-					],
-					[
-						"image-",
-						"border-image-source"
-					],
-					[
-						"fon",
-						"font-size"
-					],
-					[
-						"pos",
-						"position"
-					],
-					[
-						"li",
-						"line-height"
-					],
-					[
-						"table",
-						"table-cell"
-					],
-					[
-						"co",
-						"collapse"
-					],
-					[
-						"border-c",
-						"border-collapse"
-					],
-					[
-						"inc",
-						"include\t@include"
-					],
-					[
-						"border-bo",
-						"border-bottom"
-					],
-					[
-						"das",
-						"dashed"
-					],
-					[
-						"ce",
-						"center"
-					],
-					[
-						"re",
-						"relative"
-					],
-					[
-						"cur",
-						"cursor"
-					],
-					[
-						"wid",
-						"width"
-					],
-					[
-						"boe",
-						"border-bottom"
-					],
-					[
-						"nth",
-						"nth-child"
-					],
-					[
-						"vl",
-						"vertical-align"
-					],
-					[
-						"字",
-						"字\t@font-face SASS"
-					],
-					[
-						"混",
-						"混\t@mixin SASS"
-					],
-					[
-						"mag",
-						"margin-bottom"
-					],
-					[
-						"bacl",
-						"background-color"
-					],
-					[
-						"po",
-						"position"
-					],
-					[
-						"對齊",
-						"對齊\tCCSS_文字置中"
-					],
-					[
-						"flo",
-						"float"
-					],
-					[
-						"ov",
-						"overflow"
-					],
-					[
-						"lin",
-						"line-height"
-					],
-					[
-						"list-s",
-						"list-style"
-					],
-					[
-						"hei",
-						"height"
-					],
-					[
-						"vai",
-						"_nm_variables"
-					],
-					[
-						"op",
-						"opacity"
-					],
-					[
-						"tra",
-						"transparent"
-					],
-					[
-						"dis",
-						"display"
-					],
-					[
-						"lit",
-						"list-style-type"
-					],
-					[
-						"he",
-						"height\tAttr"
-					],
-					[
-						"text-",
-						"text-decoration"
-					],
-					[
-						"te",
-						"text-orientation"
-					],
-					[
-						"popup-",
-						"popup-block"
-					],
-					[
-						"WID",
-						"width"
-					],
-					[
-						"font-s",
-						"font-size"
-					],
-					[
-						"bl",
-						"block"
-					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"contents": "自",
+					"contents": "Package Control Messages\n========================\n\nSassBeautify:\n------------\n\n  The SassBeautify package has been successfully installed.\n  \n  Run the plugin from the command palette:\n  \n  1. Open the command palette (ctrl + shift + p)\n  2. Enter 'SassBeautify'\n  \n  Please report issues here: https://github.com/badsyntax/SassBeautify/issues\n  \n  Created by Richard Willis (badsyntax.co)\n\n\nBootstrap 3 Jade Snippets:\n-------------------------\n\n  =============================================\n  Thank you for installing Bootstrap 3 Jade Snippets\n  =============================================\n  \n  Bootstrap 3 snippets for jade is a selection of snippets\n  that will greatly improve your workflow.\n  \n  This package is compatible with both Sublime\n  Text versions 2 & 3.\n  \n  Documentation, examples & issue filing can be found here:\n  https://github.com/rs459/bootstrap3-jade-sublime-plugin\n  \n  \n  ### Dependency \n  \n  You need to install Jade language\n  \n  \n  ### How to use ?\n  \n  Type bst-* inside jade file.\n  \n  \n  \n  ### Give your feedback on https://github.com/rs459/bootstrap3-jade-sublime-plugin\n  \n  \n  \n  \n  \n  ------------------------------\n  Follow me on Twitter: @rs459\n  ------------------------------\n  \n  fork and jade conversion of https://github.com/JasonMortonNZ/bs3-sublime-plugin\n  \n  -----------------------------\n  follow him on Twitter: @JasonMortonNZ\n  -----------------------------\n  \n\n\nEmmet:\n-----\n\n  Thank you for installing Emmet -- a toolkit that can greatly improve your workflow. Note that this plugin automatically downloads and installs PyV8 binary (see status bar message). \n  \n  ******************************\n  Please restart editor \n  to finish installation process \n  after PyV8 was downloaded.\n  ******************************\n  \n  Tab key handler\n  ==========================\n  \n  By default, Emmet allows you to expand abbreviations with Tab key in HTML, XML, HAML and CSS/SASS/LESS/Stylus documents. As a side effect, you can’t use some of your ST2 snippets.\n  \n  Please read https://github.com/sergeche/emmet-sublime#tab-key-handler about how Tab handler works and how to tweak its behavior to match your needs.\n  \n  Enter key\n  ==========================\n  \n  In HTML and XML documents, Emmet overrides Enter key to insert formatted line breaks between opening and closing tags. In some cases it will break character input (for example, in Japanese language).\n  \n  To disable Enter key handler, simply add the following option in your user's Preferences file:\n  \n  \"disable_formatted_linebreak\": true\n  \n  Actions shortcuts\n  ==========================\n  \n  Emmet has a number of actions with keyboard shortcuts that may override ones you're using commonly (for example, Ctrl-E or Ctrl-Down). Please read the project main page to get list of available actions and keyboard shortcuts and how to disable them:\n  https://github.com/sergeche/emmet-sublime\n  \n  Documentation and examples:\n  http://emmet.io\n  \n  ------------------------------\n  Follow me on Twitter: @emmetio\n  ------------------------------\n  \n\n\nBootstrap 3 Snippets:\n--------------------\n\n  ============================================================\n  Thank you for installing Bootstrap 3 Snippets\n  ============================================================\n  Follow me on Twitter: @JasonMortonNZ\n  ------------------------------------------------------------\n  \n  Bootstrap 3 snippets is a selection of snippets\n  that will greatly improve your workflow.\n  \n  This package is compatible with both Sublime\n  Text versions 2 & 3.\n  \n  Documentation, examples & issue filing can be found here:\n  https://github.com/JasonMortonNZ/bs3-sublime-plugin\n  \n\n\nBracketHighlighter:\n------------------\n\n  # BracketHighlighter\n  \n  Welcome to BracketHighlighter!  For a quick start guide, please go to  \n  `Preferences->Package Settings->BracketHighlighter->Quick Start Guide`.\n  \n\n\nPackage Control:\n---------------\n\n  Version 3.2 Release Notes\n  \n  This version of Package Control focuses on bug-fixes, with notable changes\n  including:\n  \n   - OS X TLS trust roots are exported using APIs to prevent the error message\n     displayed to some El Capitan users\n  \n   - Theme, syntax and color scheme upgrades have been improved and should result\n     in fewer popup messages when filenames change\n  \n   - Various bugs related to installing dependencies have been resolved\n  \n   - Windows and OS X trust roots are exported in a way that valid/invalid purpose\n     information is now communicated to the OpenSSL-based Python ssl module\n  \n   - Further improvements have been made to handling of git/hg package upgrades\n  \n   - The Windows WinINet downloader has improved compatibility with Windows 10\n  \n\n  Version 3.1 Release Notes\n  \n  Package Control continues its focus on polish and fixing edge-case bugs. Some\n  of the changes in this version include:\n  \n   - quick panel for Install Package now stays open on Windows with recent\n     versions of ST3, even when focus is lost\n   - new \"downloader_precedence\" setting to allow users to use specific HTTP\n     backend due to network proxy or SSL issues\n   - added Install Local Dependency command for package developers to more\n     easily deal with dependencies during development\n   - improved handling of git/hg package upgrade errors\n   - better handling of locked .sublime-package files on Windows\n   - performance improvements for users with a large number of open windows\n  \n  For package developers, the list of available dependencies has been growing:\n  https://github.com/wbond/package_control_channel/blob/master/repository/dependencies.json\n  \n  Enjoy!\n  \n",
 					"settings":
 					{
-						"buffer_size": 1,
+						"buffer_size": 5627,
 						"line_ending": "Windows",
-						"name": "自"
+						"name": "Package Control Messages",
+						"scratch": true
 					}
 				},
 				{
-					"file": "/X/OLD/Yuh1973-sublimetext3/Data/Packages/User/Package Control.sublime-settings",
+					"contents": "!	<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n	<meta charset=\"UTF-8\">\n	<title>Document</title>\n</head>\n<body>\n	字形	\n</body>\n</html>",
 					"settings":
 					{
-						"buffer_size": 835,
+						"buffer_size": 126,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/sublime3/Data/Packages/User/Package Control.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 489,
 						"line_ending": "Unix"
 					}
 				}
@@ -1665,293 +53,42 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 283.0,
-				"last_filter": "",
+				"height": 242.0,
+				"last_filter": "html",
 				"selected_items":
 				[
-					[
-						"Package Control: ",
-						"Package Control: List Unmanaged Packages"
-					],
-					[
-						"pc",
-						"Package Control: Install Package"
-					],
-					[
-						"json",
-						"Set Syntax: JSON"
-					],
 					[
 						"html",
 						"Set Syntax: HTML"
 					],
 					[
-						"bs3",
-						"Snippet: bs3-標籤面板tabs"
-					],
-					[
-						"pci",
-						"Package Control: Install Package"
-					],
-					[
-						"bs3 ",
-						"Snippet: bs3-html-樣板online"
-					],
-					[
-						"email",
-						"Snippet: emailboiler"
-					],
-					[
-						"b",
-						"Snippet: Breadcrumbs"
-					],
-					[
-						"css",
-						"Snippet: cssc3nter"
-					],
-					[
-						"scss",
-						"Set Syntax: SCSS"
-					],
-					[
-						"sass",
-						"Set Syntax: Sass"
-					],
-					[
-						"php",
-						"Set Syntax: PHP"
-					],
-					[
-						"bs3tab",
-						"Snippet: bs3-標籤面板tabs"
-					],
-					[
-						"bre",
-						"Snippet: Breadcrumbs"
-					],
-					[
-						"go2bss",
-						"go2bs: Customize"
-					],
-					[
-						"",
-						"Bookmarks: Select Next"
-					],
-					[
-						"go2",
-						"go2bs: Examples"
-					],
-					[
-						"goto bootstrap",
-						"Goto Bootstrap: CSS"
-					],
-					[
-						"Package Control: i",
-						"Package Control: Install Package"
-					],
-					[
-						"PCI",
-						"Package Control: Install Package"
-					],
-					[
-						"bs3t",
-						"Snippet: bs3-html-樣板online"
-					],
-					[
-						"i",
-						"Package Control: Install Package"
-					],
-					[
-						"BS",
-						"Snippet: bs3-2欄84"
-					],
-					[
-						"bs",
-						"Snippet: bs3-2欄84"
-					],
-					[
-						"in",
-						"Package Control: Install Package"
-					],
-					[
-						"bs3-",
-						"Snippet: bs3-路徑列breadcrumbs"
-					],
-					[
-						"inp",
-						"Package Control: Install Package"
-					],
-					[
-						"bs3cdn",
-						"Snippet: bs3-cdn-js"
-					],
-					[
-						"bs3-tab",
-						"Snippet: bs3-標籤面板tabs"
-					],
-					[
-						"bs3表",
-						"Snippet: bs3-表單群組"
-					],
-					[
-						"Grid",
-						"Snippet: scss-grid"
-					],
-					[
-						"bs幻",
-						"Snippet: bs3-幻燈片"
-					],
-					[
-						"bs3te",
-						"Snippet: bs3-template.starter"
-					],
-					[
-						"bs3res",
-						"Snippet: bs3-navbar-responsive"
-					],
-					[
-						"bs3na",
-						"Snippet: bs3-navbar-responsive"
-					],
-					[
-						"cdn",
-						"Snippet: bs3-cdn-js"
-					],
-					[
-						"jq",
-						"Snippet: jq - load"
-					],
-					[
-						"bs3幻",
-						"Snippet: bs3-幻燈片"
-					],
-					[
-						"bs3footer",
-						"Snippet: bs3-panel-footer"
-					],
-					[
-						"CCSS_樣式",
-						"Snippet: CCSS_樣式"
-					],
-					[
-						"bs32",
-						"Snippet: bs3-2欄66"
-					],
-					[
-						"bs3n",
-						"Snippet: bs3-navbar"
-					],
-					[
-						"bs3f",
-						"Snippet: bs3-form-inline"
-					],
-					[
-						"bs3c",
-						"Snippet: bs3-col-12"
-					],
-					[
-						"clea",
-						"Snippet: bs3-clearfix"
-					],
-					[
-						"ccss t",
-						"Snippet: CCSS_速度設定_ease-out"
-					],
-					[
-						"ccss",
-						"Snippet: CCSS_動畫_單行縮寫"
-					],
-					[
-						"favicon",
-						"Snippet: ui-favorite-icon"
-					],
-					[
-						"bs3tem",
-						"Snippet: bs3-template.starter"
-					],
-					[
-						"ccss ",
-						"Snippet: CCSS_圓形"
-					],
-					[
-						"BS3",
-						"Snippet: bs3-3欄363"
-					],
-					[
-						"bs3nav",
-						"Snippet: bs3-navbar-responsive"
-					],
-					[
-						"bs3j",
-						"Snippet: bs3-cdn-js"
-					],
-					[
-						"edm",
-						"Snippet: EDM-borderbutton"
-					],
-					[
-						"2col",
-						"Snippet: 2col"
-					],
-					[
-						"inp:",
-						"Snippet: HTML - Input:checkbox"
-					],
-					[
-						"bs3樣",
-						"Snippet: bs3-html-樣板"
-					],
-					[
-						"bs3ne",
-						"Snippet: bs3-navbar-responsive"
-					],
-					[
-						"bs3html",
-						"Snippet: bs3-html5-template"
-					],
-					[
-						"ps3cdn",
-						"Snippet: bs3-cdn"
-					],
-					[
-						"bs3-j",
-						"Snippet: bs3-cdn-js"
-					],
-					[
-						"BS3 TA",
-						"Snippet: bs3-table"
-					],
-					[
-						"hm",
-						"Set Syntax: HTML"
+						"Package Control: ",
+						"Package Control: Upgrade/Overwrite All Packages"
 					],
 					[
 						"p",
-						"Package Control: List Packages"
-					],
-					[
-						"bs3 temp",
-						"Snippet: bs3-html5-template"
-					],
-					[
-						"co",
 						"Package Control: Install Package"
 					]
 				],
-				"width": 1142.0
+				"width": 400.0
 			},
 			"console":
 			{
-				"height": 723.0,
+				"height": 525.0,
 				"history":
 				[
-					"go bootstrap",
-					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
-					"sublime-snippet-destroyer",
-					"Extract Sublime Package: Extract all packages",
-					"cc.*",
-					"cc",
-					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+					"https://sublime.wbond.net/prerelease/packages.json. ",
+					"import urllib.request,os; pf = 'PackageControl.sublime-package'; ipp = sublime.installed_packages_path();urllib.request.install_opener( urllib.request.build_opener(urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf),'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace('','%20')).read())",
+					"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())",
+					"git clone https://github.com/tanepiper/SublimeText-Nodejs \"%APPDATA%\\Sublime Text 2\\Packages\\Nodejs\"",
+					"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'https://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"https://sublime.wbond.net/installation",
+					"git clone https://github.com/bitbonsai/sublime-jquery-snippets.git \"jQuery-Snippets\"",
+					"import urllib2,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation') ",
+					"import urllib.request,os; pf = 'PackageControl.sublime-package'; ipp = sublime.installed_packages_path();urllib.request.install_opener( urllib.request.build_opener(urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf),'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace('','%20')).read())",
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
 				]
 			},
 			"distraction_free":
@@ -1965,142 +102,16 @@
 			},
 			"file_history":
 			[
-				"/X/OLD/Yuh1973-sublimetext3/Data/Packages/Package Control/Package Control.sublime-settings",
-				"/E/20170627/Users/tbook/.v8flags.5.1.281.88.tbook.jso.json",
-				"/E/20170627/Users/Default/NTUSER.DAT",
-				"/C/Users/sharetime/Downloads/suzuki_www_mysql_20170627/js/main.js",
-				"/C/Users/sharetime/Downloads/suzuki_www_mysql_20170627/game/index.html",
-				"/C/Users/sharetime/Downloads/suzuki_www_mysql_20170627/game/include/popup-modal3.html",
-				"/C/Users/sharetime/Downloads/suzuki_www_mysql_20170627/game/include/footer.html",
-				"/C/Users/sharetime/Downloads/suzuki_www_mysql_20170627/game/include/header.html",
-				"/C/Users/sharetime/Downloads/suzuki_www_mysql_20170627/game/include/js.html",
-				"/C/Users/sharetime/Downloads/suzuki_www_mysql_20170627/game/include/navigation.html",
-				"/C/Users/sharetime/Downloads/suzuki_www_mysql_20170627/game/include/popup-modal1.html",
-				"/C/Users/sharetime/Downloads/suzuki_www_mysql_20170627/game/include/popup-modal2.html",
-				"/C/Users/sharetime/Downloads/suzuki_www_mysql_20170627/game/include/popup-modal2-1.html",
-				"/C/Users/sharetime/Desktop/新增資料夾 (2)/ryx2..html",
-				"/C/Users/sharetime/Desktop/bs4-.html",
-				"/C/Users/sharetime/Desktop/charming-0.6.0/gulpfile_ch.js",
-				"/C/Users/sharetime/Desktop/charming-0.6.0/package.json",
-				"/C/Users/sharetime/Downloads/suzuki_www_mysql_20170627/index.php",
-				"/C/Users/sharetime/Downloads/suzuki_www_mysql_20170627/application/views/index.html",
-				"/C/Users/sharetime/Downloads/suzuki_www_mysql_20170627/index.html",
-				"/C/Users/sharetime/Desktop/charming-0.6.0/Developer-License.txt",
-				"/C/Users/sharetime/Desktop/新增資料夾 (2)/roma_termini.html",
-				"/D/website/ohshu/ohushu-front.sharetime.us/ryt/ryt2.html",
-				"/D/website/ohshu/ohushu-front.sharetime.us/ryt/ryx2.htmlold.html",
-				"/D/website/gitgit/lot25/art/t/back/backForm.htm",
-				"/D/website/gitgit/lot25/art/t/index.htm",
-				"/D/website/gitgit/lot25/application/views/templates/member/forgotPasswordForm.tpl",
-				"/D/website/gitgit/lot25/source/mem_signup.html",
-				"/D/website/gitgit/lot25/source/21.html",
-				"/D/website/gitgit/lot25/application/views/templates/index.tpl",
-				"/D/website/gitgit/lot25/application/views/templates/member/loginForm.tpl",
-				"/D/website/gitgit/lot25/application/views/templates/member/member.tpl",
-				"/D/website/gitgit/lot25/application/views/templates/member/resetPasswordForm.tpl",
-				"/D/website/gitgit/lot25/application/views/templates/member/signUpForm.tpl",
-				"/D/website/gitgit/lot25/application/views/templates/member/editProfileForm.tpl",
-				"/D/website/gitgit/lot25/application/views/templates/common/menu.tpl",
-				"/D/website/gitgit/lot25/source/scss/all.scss",
-				"/D/website/gitgit/lot25/source/07.html",
-				"/D/website/gitgit/lot25/source/08.html",
-				"/D/website/gitgit/lot25/source/09.html",
-				"/D/website/gitgit/lot25/source/10.html",
-				"/D/website/gitgit/lot25/source/11.html",
-				"/D/website/gitgit/lot25/source/12.html",
-				"/D/website/gitgit/lot25/source/13.html",
-				"/D/website/ohshu/ohushu-front.sharetime.us/ryt/ryt-ryp-ryo_new.html",
-				"/D/website/gitgit/lot25/source/14.html",
-				"/D/website/gitgit/lot25/source/16.html",
-				"/D/website/gitgit/lot25/source/17.html",
-				"/D/website/gitgit/lot25/source/18.html",
-				"/D/website/gitgit/lot25/source/19.html",
-				"/D/website/gitgit/lot25/source/20.html",
-				"/D/website/gitgit/lot25/source/index.html",
-				"/D/website/ohshu/ohushu-front.sharetime.us/ryt/css/basic.css",
-				"/D/website/ohshu/ohushu-front.sharetime.us/ryt/css/bootstrap.min.css",
-				"/D/website/ohshu/ohushu-front.sharetime.us/ryt/css/ohshumap.css",
-				"/D/website/ohshu/ohushu-front.sharetime.us/ryt/css/popup.css",
-				"/D/website/gitgit/lot25/source/15.html",
-				"/D/website/gitgit/lot25/source/22.html",
-				"/D/website/gitgit/lot25/source/24.html",
-				"/D/website/gitgit/lot25/source/25.html",
-				"/D/website/gitgit/lot25/source/26.html",
-				"/D/website/gitgit/lot25/source/29.html",
-				"/C/Users/sharetime/Google 雲端硬碟/Untitled.scad",
-				"/D/allen_self/appStrap/allentry/npm-debug.log",
-				"/C/Users/sharetime/Google 雲端硬碟/scan/Untitled Diagram.html",
-				"/D/website/gitgit/gulphtml/~gulp/gulpfile.js",
-				"/C/Users/sharetime/Desktop/yelp.js",
-				"/D/website/gitgit/lot25/art/24.html",
-				"/D/website/gitgit/lot25/art/mem_signup.html",
-				"/D/website/ohshu/admin/gulpfile.js",
-				"/D/website/ohshu/admin/README.md",
-				"/D/website/ohshu/admin/shared/jade/1/a-rrl1.jade",
-				"/D/website/ohshu/admin/shared/jade/setting.json",
-				"/D/website/ohshu/admin/shared/jade/index.jade",
-				"/D/website/gitgit/gulphtml/ci_template_library3/Template.php",
-				"/C/Users/sharetime/Desktop/times.html",
-				"/C/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.22/lib/sass/engine.rb",
-				"/D/website/futures/index.html",
-				"/D/website/futures/css/style.css",
-				"/C/Users/sharetime/Desktop/pagination.html",
-				"/D/website/futures/.git/description",
-				"/D/website/futures/.git/HEAD",
-				"/C/Users/sharetime/Desktop/111.html",
-				"/D/website/futures/.git/config",
-				"/C/Users/sharetime/Downloads/Visual Composer v5.0.1/js_composer/changes.txt",
-				"/C/Users/sharetime/Downloads/Visual Composer v5.0.1/js_composer/credits.txt",
-				"/C/Users/sharetime/Desktop/yuhrenhuang.vcf",
-				"/C/Users/sharetime/Desktop/2 Column.bscomp",
-				"/D/allen_self/appStrap/allentry/gulpfile.js",
-				"/D/allen_self/appStrap/allentry/assets/scss/README.txt",
-				"/D/allen_self/appStrap/allentry/assets/scss/theme-admin-style.scss",
-				"/D/allen_self/appStrap/allentry/assets/scss/custom-style.scss",
-				"/D/allen_self/appStrap/allentry/assets/scss/custom/_custom-style.scss",
-				"/D/allen_self/appStrap/allentry/assets/scss/custom/_custom-variables.scss",
-				"/D/allen_self/appStrap/allentry/assets/scss/colour-variations/README.txt",
-				"/D/allen_self/appStrap/allentry/assets/scss/colour-variations/colour-blue-dark.scss",
-				"/D/allen_self/appStrap/allentry/package.json",
-				"/D/allen_self/appStrap/README.txt",
-				"/D/allen_self/appStrap/documentation/README.txt",
-				"/D/allen_self/appStrap/allentry/elements-tables.htm",
-				"/C/Users/sharetime/Desktop/Lot25/Lot25/plugin/menu/addTextbox/jquery-1.9.1.js",
-				"/C/Users/sharetime/Desktop/Lot25/Lot25/plugin/menu/addTextbox/add_textbox.html",
-				"/D/website/gitgit/lot25/source/menuadd.html",
-				"/C/Program Files (x86)/Pingendo 4/icudtl.dat",
-				"/C/Program Files (x86)/Pingendo 4/blink_image_resources_200_percent.pak",
-				"/C/Program Files (x86)/Pingendo 4/content_resources_200_percent.pak",
-				"/C/Program Files (x86)/Pingendo 4/resources/app/package.json",
-				"/C/Program Files (x86)/Pingendo 4/resources/app/main.js",
-				"/D/website/gitgit/lot25/art/js/jquery-ui.js",
-				"/C/Users/sharetime/Desktop/Lot25/Lot25/plugin/menu/addTextbox/jquery-ui.css",
-				"/D/website/gitgit/lot25/art/LOT 25_files/style.css",
-				"/D/website/gitgit/lot25/art/ulploadimg.html",
-				"/D/website/gitgit/lot25/art/LOT 25_files/jquery.uploadfile.js",
-				"/C/Users/sharetime/Desktop/Lot25/Lot25/plugin/menu/addTextbox/jquery-ui.js",
-				"/D/sharetimeGIT/lot25/bower.json",
-				"/D/website/gitgit/lot25/source/tempitem.html",
-				"/D/allen_self/appStrap/theme/gulpfile-ch.js",
-				"/D/allen_self/appStrap/theme/package.json",
-				"/D/website/gitgit/lot25/source/idont.html",
-				"/D/website/gitgit/lot25/source/shoplist.html",
-				"/C/Users/sharetime/Desktop/wwwww.txt",
-				"/C/Users/sharetime/Desktop/products%2FWB0412697/Unify-v1.9.9/Documentation/.editorconfig",
-				"/C/Users/sharetime/Desktop/products%2FWB0412697/Unify-v1.9.9/PSD/README.txt",
-				"/D/website/gitgit/lot25/source/000.html",
-				"/D/sharetimeGIT/lot25/config.rb",
-				"/D/sharetimeGIT/lot25/package.json",
-				"/D/website/gitgit/lot25/art/LOT 25_files/vt(2)",
-				"/C/Users/sharetime/Desktop/products%2FWB0412697/Unify-v1.9.9/changelog.txt"
+				"/C/Users/allen/Desktop/sublime3/Data/Packages/Package Control/Package Control.sublime-settings",
+				"/F/sublime3/Data/Packages/User/Package Control.sublime-settings"
 			],
 			"find":
 			{
-				"height": 35.0
+				"height": 0.0
 			},
 			"find_in_files":
 			{
-				"height": 162.0,
+				"height": 0.0,
 				"where_history":
 				[
 				]
@@ -2121,13 +132,13 @@
 				"reverse": false,
 				"show_context": true,
 				"use_buffer2": true,
-				"whole_word": true,
+				"whole_word": false,
 				"wrap": true
 			},
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 0,
 					"sheets":
 					[
 						{
@@ -2135,33 +146,524 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1,
+								"buffer_size": 5627,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1,
-										1
+										5627,
+										5627
 									]
 								],
 								"settings":
 								{
-									"auto_name": "自",
-									"color_helper.box_height": 20,
-									"color_helper.color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-									"color_helper.file_palette":
+									"BracketHighlighterBusy": false,
+									"auto_indent": false,
+									"bh_regions":
 									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
 									],
-									"color_helper.scan":
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.locations":
 									{
-										"current_ext": null,
-										"current_syntax": "Text/Plain text",
-										"enabled": false,
-										"last_updated": 1572056275.02
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
 									},
-									"syntax": "Packages/Text/Plain text.tmLanguage"
+									"bracket_highlighter.regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 68324.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 126,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										110,
+										110
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/sublime3/Data/Packages/User/Package Control.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 489,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										466
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												464,
+												465
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												0,
+												1
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												482,
+												483
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/double_quote.png",
+												"region.greenish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												462,
+												463
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -2169,61 +671,17 @@
 							},
 							"stack_index": 1,
 							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/X/OLD/Yuh1973-sublimetext3/Data/Packages/User/Package Control.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 835,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										832,
-										832
-									]
-								],
-								"settings":
-								{
-									"color_helper.box_height": 20,
-									"color_helper.color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-									"color_helper.file_palette":
-									[
-									],
-									"color_helper.preview_meta":
-									{
-									},
-									"color_helper.scan":
-									{
-										"current_ext": ".sublime-settings",
-										"current_syntax": "zzz A File Icon zzz/aliases/JSON (Sublime)",
-										"enabled": false,
-										"last_updated": 1572057376.09
-									},
-									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
 						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 35.0
+				"height": 0.0
 			},
 			"input":
 			{
-				"height": 35.0
+				"height": 31.0
 			},
 			"layout":
 			{
@@ -2248,24 +706,16 @@
 				]
 			},
 			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 194.0
-			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
-			"output.sftp":
-			{
-				"height": 0.0
-			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,1008,436,145,1507",
+			"position": "0,2,3,-1,-1,-1,-1,1010,989,471,1645",
 			"project": "",
 			"replace":
 			{
-				"height": 66.0
+				"height": 0.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2300,15 +750,15 @@
 			{
 			},
 			"show_minimap": true,
-			"show_open_files": true,
+			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 124.0,
-			"status_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 84,
+			"window_id": 1,
 			"workspace_name": ""
 		}
 	],
@@ -2316,8 +766,6 @@
 	{
 		"recent_workspaces":
 		[
-			"/D/律師公會.sublime-workspace",
-			"/C/xampp/htdocs/hnycn/config.sublime-workspace"
 		]
 	}
 }
