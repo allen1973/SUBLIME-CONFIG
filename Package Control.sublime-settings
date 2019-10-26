@@ -1,0 +1,27 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Bootstrap 3 Jade Snippets",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"Enhanced HTML and CFML",
+		"Goto-CSS-Declaration",
+		"HTML Boilerplate",
+		"HTML-CSS-JS Prettify",
+		"HTML5 Doctor CSS Reset snippet",
+		"Package Control",
+		"Package Syncing",
+		"Sass",
+		"SASS Build",
+		"SassBeautify",
+		"SCSS",
+		"SCSS Expander",
+		"SideBarEnhancements"
+	]
+}
