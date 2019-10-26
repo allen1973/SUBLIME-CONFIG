@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-background: ${1:背景色彩} ${2:圖片路徑} ${3:圖片定位方式} ${4:圖片重複性設定} ${5:圖片X位置} ${6:圖片Y位置};
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>背景</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
-</snippet>

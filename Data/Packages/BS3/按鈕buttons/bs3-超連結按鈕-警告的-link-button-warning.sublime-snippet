@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<a class="btn btn-warning" href="#" role="button">button</a>
-]]></content>
-	<tabTrigger>bs按鈕</tabTrigger>
-</snippet>

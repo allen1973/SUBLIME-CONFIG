@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-unregister_sidebar( 'sidebar-alt' );
-]]></content>
-	<tabTrigger>WPST</tabTrigger>
-	
-	<description>Unregister the Secondary Sidebar</description>
-</snippet>

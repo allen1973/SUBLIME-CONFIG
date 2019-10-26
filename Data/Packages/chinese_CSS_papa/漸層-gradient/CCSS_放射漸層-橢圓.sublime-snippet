@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-background-image:radial-gradient(${1:圓心X} ${2:圓心Y}, ${3:半徑方式} ellipse, ${4:色彩} ${5:色彩位置}, ${6:色彩} ${7:色彩位置});
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>漸層</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
-</snippet>

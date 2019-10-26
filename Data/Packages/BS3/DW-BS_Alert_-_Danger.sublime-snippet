@@ -1,8 +1,0 @@
-﻿<snippet>
-	<content><![CDATA[<div class="alert alert-danger" role="alert">
-Oh snap! Change a few things up and try submitting again.
-</div>]]></content>
-<description>Danger</description>
-<tabTrigger>bsalert</tabTrigger>
-</snippet>
-

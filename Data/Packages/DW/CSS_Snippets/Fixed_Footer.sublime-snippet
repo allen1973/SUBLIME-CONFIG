@@ -1,1 +1,0 @@
-﻿<snippet>	<content><![CDATA[#footer {   position:fixed;   left:0px;   bottom:0px;   height:300px;   width:100%;   background:#1abc9c;   }]]></content><description>Fixed Footer</description><tabTrigger>dwfooter</tabTrigger></snippet>

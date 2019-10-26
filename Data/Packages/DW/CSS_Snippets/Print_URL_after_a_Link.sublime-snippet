@@ -1,1 +1,0 @@
-﻿<snippet>	<content><![CDATA[@media print {    a:after {        content: " (" attr(href)") ";        font-size: 0.8em;        font-weight: normal;    }]]></content><description>列印URL</description><tabTrigger>dwurl</tabTrigger></snippet>

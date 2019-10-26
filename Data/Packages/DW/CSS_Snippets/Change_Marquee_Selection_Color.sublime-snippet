@@ -1,1 +1,0 @@
-﻿<snippet>	<content><![CDATA[    /* Add this to your CSS file*//*Mozilla based browsers */::-moz-selection {       background-color: #1ABC9C;       color: #FFFFFF;}/* Works in Safari */::selection {       background-color: #1ABC9C;       color: #FFFFFF;       }]]></content><description>圈選顏色</description><tabTrigger>dwreset</tabTrigger></snippet>

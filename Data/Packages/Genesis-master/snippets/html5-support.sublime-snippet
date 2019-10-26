@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-# Enable html5 doctype and elements
-add_theme_support( 'genesis-html5' );
-]]></content>
-	<tabTrigger>WPST</tabTrigger>
-	
-	<description>HTML5 support</description>
-</snippet>
