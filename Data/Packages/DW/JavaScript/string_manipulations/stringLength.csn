@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding = "utf-8"?>
+
+<snippet xmlns:MMString="http://www.macromedia.com/schemes/dat/string/" MMString:name = "Snippets/JavaScript/string_manipulations/stringLength_csn/snippet/name/String" MMString:description = "Snippets/JavaScript/string_manipulations/stringLength_csn/snippet/description/Determines</description>
+
+
+<snippet>
+	<content><![CDATA[function stringLength(inputString)
+{
+  return inputString.length;
+}
+]]></content>
+
+
+
+<tabTrigger>DW</tabTrigger>
+</snippet>
+

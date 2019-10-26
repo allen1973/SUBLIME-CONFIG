@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<ul class="list-group">
+	<li class="list-group-item">清單項目 1</li>
+	<li class="list-group-item">清單項目 2</li>
+	<li class="list-group-item">清單項目 3</li>
+</ul>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bs清單</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,57 @@
+<snippet>
+	<content><![CDATA[
+<!-- 4 small images table -->
+<table width="560" border="0" cellspacing="0" cellpadding="0" align="center" class="fit-width">
+  <tr>
+    <td width="125" align="center" class="float-left">
+      <table width="125" border="0" cellspacing="0" cellpadding="0" class="float-left">
+        <tr>
+          <td align="center"><img src="http://placehold.it/125x140" width="125" height="140" alt="" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; background:#ebebeb;color:#006699;-ms-interpolation-mode: bicubic;" border="0" class="mobile-image" /></td>
+        </tr>
+        <tr>
+          <td style="font-size:1px; height:15px" height="15px">&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+    <td width="20" class="float-left">&nbsp;</td>
+    <td width="125" class="float-left">
+      <table width="125" border="0" cellspacing="0" cellpadding="0" class="float-left">
+        <tr>
+          <td align="center"><img src="http://placehold.it/125x140" width="125" height="140" alt="" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; background:#ebebeb;color:#006699;-ms-interpolation-mode: bicubic;" border="0" class="mobile-image" /></td>
+        </tr>
+        <tr>
+          <td style="font-size:1px; height:15px" height="15px">&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+    <td width="20" class="float-left">&nbsp;</td>
+    <td width="125" class="float-left">
+      <table width="125" border="0" cellspacing="0" cellpadding="0" class="float-left">
+        <tr>
+          <td align="center"><img src="http://placehold.it/125x140" width="125" height="140" alt="" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; background:#ebebeb;color:#006699;-ms-interpolation-mode: bicubic;" border="0" class="mobile-image" /></td>
+        </tr>
+        <tr>
+          <td style="font-size:1px; height:15px" height="15px">&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+    <td width="20" class="float-left">&nbsp;</td>
+    <td width="125" class="float-left">
+      <table width="125" border="0" cellspacing="0" cellpadding="0" class="float-left">
+        <tr>
+          <td align="center"><img src="http://placehold.it/125x140" width="125" height="140" alt="" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; background:#ebebeb;color:#006699;-ms-interpolation-mode: bicubic;" border="0" class="mobile-image" /></td>
+        </tr>
+        <tr>
+          <td style="font-size:1px; height:15px" height="15px">&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<!-- // 4 small images table -->
+]]></content>
+	  <description>layout:4col</description>
+	<tabTrigger>EDM</tabTrigger> 
+  
+	<scope>text.html</scope>
+</snippet>

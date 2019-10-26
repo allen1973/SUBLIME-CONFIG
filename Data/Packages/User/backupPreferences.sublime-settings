@@ -1,0 +1,28 @@
+{
+	"afn_insert_width_first": true,
+	"afn_valid_scopes":
+	[
+		"string"
+	],
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"default_encoding": "UTF-8",
+	"font_face": "ubuntu",
+	"font_options":
+	[
+		"directwrite"
+	],
+	"font_size": 15,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+	],
+	"material_theme_tree_headings": true,
+	"overlay_scroll_bars": "enabled",
+	"theme": "Default.sublime-theme",
+	"word_wrap": "false"
+}

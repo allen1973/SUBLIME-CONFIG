@@ -1,0 +1,12 @@
+﻿<snippet>
+	<content><![CDATA[
+		<input type="text" placeholder="Placeholder text" />]]>
+			
+		</content>
+
+
+<description>Clear Field On Focus</description>
+<tabTrigger>dwinput</tabTrigger>
+</snippet>
+
+

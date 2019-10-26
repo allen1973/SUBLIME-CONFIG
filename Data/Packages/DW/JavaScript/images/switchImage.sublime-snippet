@@ -1,0 +1,29 @@
+﻿<snippet>
+	<content><![CDATA[function switchImage(imgName, imgSrc) 
+
+{
+
+  if (document.images)
+
+  {
+
+    if (imgSrc != "none")
+
+    {
+
+      document.images[imgName].src = imgSrc;
+
+    }
+
+  }
+
+}
+
+]]></content>
+
+
+<description>switchImage_csn</description>
+<tabTrigger>dwjs</tabTrigger>
+</snippet>
+
+

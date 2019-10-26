@@ -1,0 +1,16 @@
+﻿<snippet>
+	<content><![CDATA[@media print{
+
+.page-break{
+
+   page-break-before:always;
+
+}
+
+]]></content>
+
+<description>列印換頁</description>
+<tabTrigger>dwbreak</tabTrigger>
+</snippet>
+
+

@@ -1,0 +1,21 @@
+﻿<snippet>
+	<content><![CDATA[/* Add the following properties to the selector to which the effect has to be applied */
+
+/* Chrome, Safari */
+
+-webkit-box-shadow: {$:5}px {$:5}px {$:15}px {$2:#1abc9c};
+
+/* Firefox */
+
+-moz-box-shadow: {$:5}px {$:5}px {$:15}px {$2:#1abc9c};
+
+/* Standard syntax */
+
+box-shadow: {$:5}px {$:5}px {$:15}px {$2:#1abc9c};]]></content>
+
+
+<description>Effect:Box Shadow</description>
+<tabTrigger>dwcss</tabTrigger>
+</snippet>
+
+

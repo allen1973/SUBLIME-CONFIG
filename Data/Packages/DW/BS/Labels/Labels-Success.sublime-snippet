@@ -1,0 +1,9 @@
+﻿<snippet>
+	<content><![CDATA[
+<span class="label label-success">Success</span>]]></content>
+
+
+<description>Success</description>
+<tabTrigger>bslabel</tabTrigger>
+</snippet>
+

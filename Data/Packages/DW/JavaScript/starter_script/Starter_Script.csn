@@ -1,0 +1,19 @@
+﻿<snippet>
+	<content><![CDATA[<script type="text/javascript">
+<!--
+]]></content>
+
+
+
+
+
+	<content><![CDATA[
+//-->
+</script>]]></content>
+
+
+
+<description>Starter_Script_csn</description>
+<tabTrigger>dwjs</tabTrigger>
+</snippet>
+

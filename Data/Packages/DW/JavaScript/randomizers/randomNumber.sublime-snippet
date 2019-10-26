@@ -1,0 +1,12 @@
+﻿
+<snippet>
+	<content><![CDATA[function randomNumber(limit){
+  return Math.floor(Math.random()*limit);
+}
+]]></content>
+
+
+<description>randomNumber_csn</description>
+<tabTrigger>dwjs</tabTrigger>
+</snippet>
+

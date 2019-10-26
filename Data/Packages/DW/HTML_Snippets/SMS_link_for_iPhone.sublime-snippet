@@ -1,0 +1,14 @@
+﻿<snippet>
+	<content><![CDATA[
+<a href="sms:1-234-567-8910">Send a  SMS </a>]]>
+
+</content>
+
+
+<description>SMS link</description>
+
+<tabTrigger>dw</tabTrigger>
+
+</snippet>
+
+

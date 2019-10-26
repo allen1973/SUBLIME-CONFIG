@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+//  (min-width: 500px)
+\$high-tide: 500px;
+// set (min-width: 600px) and (max-width: 800px)
+\$ex-presidents: 600px 800px;
+//  (max-width: 1000px)
+\$surfboard-width: max-width 1000px;
+// (min-height: 1000px) and (orientation: portrait)
+\$surfboard-height: (min-height 1000px) (orientation portrait);
+\$pad: min-width 768px;
+ \$padm: max-width 1023px;
+//$pads: max-width 769px;
+ \$mobile: max-width 481px;
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>RWD</tabTrigger>
+	<description>定斷點</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.scss</scope>
+</snippet>

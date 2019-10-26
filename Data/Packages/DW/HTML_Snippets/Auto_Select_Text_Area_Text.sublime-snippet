@@ -1,0 +1,14 @@
+﻿<snippet>
+	<content><![CDATA[<textarea rows="10" cols="50" onclick="this.focus();this.select()">
+
+example text
+
+</textarea>]]></content>
+
+
+<description>Auto Select Text Area Text</description>
+<tabTrigger>dw</tabTrigger>
+
+</snippet>
+
+

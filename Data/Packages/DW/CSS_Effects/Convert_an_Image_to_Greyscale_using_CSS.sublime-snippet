@@ -1,0 +1,14 @@
+﻿<snippet>
+	<content><![CDATA[img{
+
+  -webkit-filter: grayscale(1);
+
+  filter: grayscale(1);
+}
+]]></content>
+
+<description>Effect:Convert an Image to Greyscale using CSS</description>
+<tabTrigger>dwcss</tabTrigger>
+</snippet>
+
+

@@ -1,0 +1,27 @@
+﻿<snippet>
+	<content><![CDATA[
+
+/* external links */
+
+a[href^="http://"] {
+    padding-right: 13px;
+    color: #1abc9c;
+}
+/* emails */
+
+a[href^="mailto:"] {
+    padding-right: 20px;
+    color: #000000;
+}
+/* pdfs */
+
+a[href^=".pdf"] {
+    padding-right: 18px;
+    color: #EBEBEB;
+}
+]]></content>
+
+<description>CSS:連結色彩 </description>
+<tabTrigger>dwlink</tabTrigger>
+</snippet>
+

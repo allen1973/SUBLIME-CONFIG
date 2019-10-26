@@ -1,0 +1,24 @@
+<snippet>
+	<content><![CDATA[
+<div class="card card-block">
+  <h4 class="card-title">Special title treatment</h4>
+  <p class="card-text">快速更改任何卡片的文本對齊方式（整體或特定部分）</p>
+  <a href="#" class="btn btn-primary">更多內容</a>
+</div>
+
+<div class="card card-block text-xs-center">
+  <h4 class="card-title">Special title treatment</h4>
+  <p class="card-text">快速更改任何卡片的文本對齊方式（整體或特定部分）</p>
+  <a href="#" class="btn btn-primary">更多內容</a>
+</div>
+
+<div class="card card-block text-xs-right">
+  <h4 class="card-title">Special title treatment</h4>
+  <p class="card-text">快速更改任何卡片的文本對齊方式（整體或特定部分）</p>
+  <a href="#" class="btn btn-primary">更多內容</a>
+</div>
+]]></content><tabTrigger>card</tabTrigger>
+    <description> Text alignment</description>
+</snippet>
+
+

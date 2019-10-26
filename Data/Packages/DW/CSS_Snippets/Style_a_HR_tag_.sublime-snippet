@@ -1,0 +1,1 @@
+﻿<snippet>	<content><![CDATA[hr {       border: 0;       border-bottom: 1px dashed #1abc9c;       background: #999;}       ]]></content><description>HR</description><tabTrigger>dwhr</tabTrigger></snippet>

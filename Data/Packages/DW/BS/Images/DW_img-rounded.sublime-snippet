@@ -1,0 +1,9 @@
+﻿<snippet>
+	<content><![CDATA[<!-- Clip image with an oval -->
+<img src="${1:...}" alt="${2:...}" class="img-rounded">]]></content>
+
+
+<description>弧</description>
+<tabTrigger>bsimg</tabTrigger>
+</snippet>
+

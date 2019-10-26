@@ -1,0 +1,15 @@
+﻿<snippet>
+	<content><![CDATA[<div class="input-group">
+    <span class="input-group-addon">
+        <input type="radio" aria-label="...">
+      </span>
+    <input type="text" class="form-control" aria-label="...">
+</div>
+]]></content>
+
+
+
+<tabTrigger>bsinput</tabTrigger>
+<description>Radio Button & Input Field</description>
+</snippet>
+

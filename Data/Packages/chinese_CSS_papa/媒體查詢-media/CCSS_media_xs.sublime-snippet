@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+@media screen and (max-width:767px){
+	${1}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>媒體查詢</tabTrigger>
+	<description>screen XS</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

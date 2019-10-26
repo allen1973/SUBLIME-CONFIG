@@ -1,0 +1,25 @@
+<snippet>
+	<content><![CDATA[
+<div class="card text-xs-center">
+  <div class="card-header">
+    <ul class="nav nav-tabs card-header-tabs float-xs-left">
+      <li class="nav-item">
+        <a class="nav-link active" href="#">Active</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Link</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link disabled" href="#">Disabled</a>
+      </li>
+    </ul>
+  </div>
+  <div class="card-block">
+    <h4 class="card-title">Special title treatment</h4>
+    <p class="card-text">在卡片標題中使用Bootstrap的導航框或標籤。確保始終包含一個`.pull - * - *`實用程序類來正確對齊。</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+]]></content><tabTrigger>card</tabTrigger>
+    <description>Bootstrap nav</description>
+</snippet>

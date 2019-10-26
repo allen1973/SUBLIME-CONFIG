@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+translate3d(${1:100},${2:100},${3:100})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>移動</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

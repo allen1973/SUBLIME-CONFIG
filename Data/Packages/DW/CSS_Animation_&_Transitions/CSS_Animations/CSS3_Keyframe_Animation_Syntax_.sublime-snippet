@@ -1,0 +1,63 @@
+﻿<snippet>
+	<content><![CDATA[/* 
+
+Define this in your CSS 
+Animation-Title = Replace it by the name you want to give your animation
+
+*/
+
+@-webkit-keyframes Animation-Title {
+    0% {
+        /* Add some property like - color: #1abc9c;*/
+    }
+    50% {
+        /* Add some property like - color: #1abc9c;*/
+    }
+    100% {
+        /* Add some property like - color: #1abc9c;*/
+    }
+}
+@-moz-keyframes Animation-Title {
+    0% {
+        /* Add some property like - color: #1abc9c;*/
+    }
+    50% {
+        /* Add some property like - color: #1abc9c;*/
+    }
+    100% {
+        /* Add some property like - color: #1abc9c;*/
+    }
+}
+@-o-keyframes Animation-Title {
+    0% {
+        /* Add some property like - color: #1abc9c;*/
+    }
+    50% {
+        /* Add some property like - color: #1abc9c;*/
+    }
+    100% {
+        /* Add some property like - color: #1abc9c;*/
+    }
+}
+@keyframes Animation-Title {
+    0% {
+        /* Add some property like - color: #1abc9c;*/
+    }
+    50% {
+        /* Add some property like - color: #1abc9c;*/
+    }
+    100% {
+        /* Add some property like - color: #1abc9c;*/
+    }
+}
+.animation {
+    -webkit-animation: Animation-Title 3s infinite;
+    -moz-animation: Animation-Title 3s infinite;
+    -o-animation: Animation-Title 3s infinite;
+    animation: Animation-Title 3s infinite;
+]]></content>
+
+<description>Animation Keyframe</description>
+<tabTrigger>dwa</tabTrigger>
+</snippet>
+

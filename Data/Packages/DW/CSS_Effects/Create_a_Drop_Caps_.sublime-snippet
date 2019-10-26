@@ -1,0 +1,26 @@
+﻿<snippet>
+	<content><![CDATA[/*Assign dropcaps class to the paragraph for which the effect is to be applied */
+
+p.dropcaps:first-child:first-letter {
+
+    float: left;
+
+    color: #1abc9c;
+
+    font-size: 80px;
+
+    line-height: 40px;
+
+    padding-top: 6px;
+
+    padding-right: 6px;
+
+    padding-left: 6px;
+
+]]></content>
+
+<description>Effect:Create a Drop Caps </description>
+<tabTrigger>dwcss</tabTrigger>
+</snippet>
+
+

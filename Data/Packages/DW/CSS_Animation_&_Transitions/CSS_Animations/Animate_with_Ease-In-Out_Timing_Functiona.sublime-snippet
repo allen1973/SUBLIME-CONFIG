@@ -1,0 +1,198 @@
+﻿<snippet>
+	<content><![CDATA[/* 
+
+
+
+Define this in your CSS 
+
+.ease-in-outAnimation = Replace it by the name you want to give your animation
+
+.easeinoutAnimObj = Assign this class to the elements to which you want to apply the animation
+
+*/
+
+
+
+.easeinoutAnimObj {
+
+    position: relative;
+
+    /* Chrome, Safari*/
+
+    -webkit-animation-name: ease-in-outAnimation;
+
+    -webkit-animation-duration: 5s;
+
+    -webkit-animation-timing-function: ease-in-out;
+
+    -webkit-animation-delay: 2s;
+
+    -webkit-animation-iteration-count: infinite;
+
+    -webkit-animation-direction: alternate;
+
+    -webkit-animation-play-state: running;
+
+    /* Opera */
+
+    -o-animation-name: ease-in-outAnimation;
+
+    -o-animation-duration: 5s;
+
+    -o-animation-timing-function: ease-in-out;
+
+    -o-animation-delay: 2s;
+
+    -o-animation-iteration-count: infinite;
+
+    -o-animation-direction: alternate;
+
+    -o-animation-play-state: running;
+
+    /* Mozilla */
+
+    -moz-animation-name: ease-in-outAnimation;
+
+    -moz-animation-duration: 5s;
+
+    -moz-animation-timing-function: ease-in-out;
+
+    -moz-animation-delay: 2s;
+
+    -moz-animation-iteration-count: infinite;
+
+    -moz-animation-direction: alternate;
+
+    -moz-animation-play-state: running;
+
+    /* Standard syntax */
+
+    animation-name: ease-in-outAnimation;
+
+    animation-duration: 5s;
+
+    animation-timing-function: ease-in-out;
+
+    animation-delay: 2s;
+
+    animation-iteration-count: infinite;
+
+    animation-direction: alternate;
+
+    animation-play-state: running;
+
+}
+
+/* 
+
+
+
+Define the keyframe and changes
+
+
+
+*/
+
+
+
+/* Chrome, Safari */
+
+
+
+@-webkit-keyframes ease-in-outAnimation {
+
+    0% {
+
+        left: 0px;
+
+        top: 0px;
+
+    }
+
+    100% {
+
+        left: 200px;
+
+        top: 0px;
+
+    }
+
+}
+
+/* Firefox */
+
+
+
+@-moz-keyframes ease-in-outAnimation {
+
+    0% {
+
+        left: 0px;
+
+        top: 0px;
+
+    }
+
+    100% {
+
+        left: 200px;
+
+        top: 0px;
+
+    }
+
+}
+
+/* Opera */
+
+
+
+@-o-keyframes ease-in-outAnimation {
+
+    0% {
+
+        left: 0px;
+
+        top: 0px;
+
+    }
+
+    100% {
+
+        left: 200px;
+
+        top: 0px;
+
+    }
+
+}
+
+/* Standard syntax */
+
+
+
+@keyframes ease-in-outAnimation {
+
+    0% {
+
+        left: 0px;
+
+        top: 0px;
+
+    }
+
+    100% {
+
+        left: 200px;
+
+        top: 0px;
+
+    }
+
+]]></content>
+
+<description>Animate:Ease-In-Out Timing Functiona</description>
+<tabTrigger>dwa</tabTrigger>
+</snippet>
+
+

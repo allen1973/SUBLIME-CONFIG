@@ -1,0 +1,8 @@
+﻿<snippet>
+	<content><![CDATA[<div class="alert alert-success" role="alert">
+Well done! You successfully read this important alert message.
+</div>]]></content>
+<description>Success</description>
+<tabTrigger>bsalert</tabTrigger>
+</snippet>
+

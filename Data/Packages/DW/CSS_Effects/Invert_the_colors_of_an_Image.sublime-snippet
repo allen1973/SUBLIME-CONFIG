@@ -1,0 +1,1 @@
+﻿<snippet>	<content><![CDATA[img {  -webkit-filter: invert(${1:.8});  filter: invert(${1:.8});]]></content><description>Effect:負片效果</description><tabTrigger>dwcss</tabTrigger></snippet>

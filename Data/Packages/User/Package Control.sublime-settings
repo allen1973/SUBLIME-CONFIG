@@ -1,0 +1,44 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"Boxy Theme",
+		"FakeImg Image Placeholder Snippet"
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Auto-Spacing",
+		"Boxy Theme",
+		"ChineseLoremIpsum",
+		"Color Highlighter",
+		"ColorHelper",
+		"ColorPick",
+		"ConvertChineseCharacters",
+		"CSS To SASS And Stylus Converter",
+		"CSS-On-Diet",
+		"EditorConfig",
+		"EditorConfigSnippets",
+		"Emmet",
+		"Emmet Css Snippets",
+		"FakeImg Image Placeholder Snippet",
+		"FakeImg.pl Image Placeholder Snippet",
+		"FileZilla SFTP Import",
+		"Genesis",
+		"Gulp",
+		"HTML-CSS-JS Prettify",
+		"Icon Fonts",
+		"iconfont snippets",
+		"Jade",
+		"Material Theme - Appbar",
+		"Package Control",
+		"Sass",
+		"SASS Snippets",
+		"SCSS",
+		"SCSS Snippets",
+		"Seti_UI",
+		"Snippet Destroyer",
+		"TortoiseGit Context Integration",
+		"WordPress"
+	]
+}

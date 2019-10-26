@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding = "utf-8"?>
+
+<snippet xmlns:MMString="http://www.macromedia.com/schemes/dat/string/" MMString:name = "Snippets/JavaScript/string_manipulations/lowerCase_csn/snippet/name/Lowercase" MMString:description = "Snippets/JavaScript/string_manipulations/lowerCase_csn/snippet/description/Changes</description>
+
+
+<snippet>
+	<content><![CDATA[function stringToLowercase(inputString)
+{
+  return inputString.toLowerCase();
+}
+]]></content>
+
+
+
+<tabTrigger>DW</tabTrigger>
+</snippet>
+

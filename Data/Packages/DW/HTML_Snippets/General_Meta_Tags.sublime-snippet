@@ -1,0 +1,36 @@
+﻿<snippet>
+	<content><![CDATA[<meta http-equiv="default-style"/>
+
+<meta http-equiv="refresh"/>
+
+<meta http-equiv="Cache-Control"/>
+
+<meta http-equiv="Content-Disposition"/>
+
+<meta http-equiv="Content-Type"/>
+
+<meta http-equiv="Expires"/>
+
+<meta http-equiv="X-UA-Compatible"/>
+
+<meta name="application-name"/>
+
+<meta name="author"/>
+
+<meta name="classification"/> 
+
+<meta name="copyright"/>
+
+<meta name="formatter"/>
+
+<meta name="generator"/>
+
+<meta name="rating"/>]]></content>
+
+
+<description>General Meta Tags</description>
+<tabTrigger>dw</tabTrigger>
+
+</snippet>
+
+

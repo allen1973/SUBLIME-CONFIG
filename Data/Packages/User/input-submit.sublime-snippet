@@ -1,0 +1,7 @@
+
+<snippet>
+	<content><![CDATA[<input type="submit" value="${1:送出}">]]></content>
+	<tabTrigger>送出</tabTrigger>
+	<description>HTML - Input:submit</description>
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+animation-name: ${1:動畫名稱};
+animation-duration: ${2:播放時間};
+animation-delay: ${3:延遲時間};
+animation-timing-function: ${4:速度};
+animation-iteration-count: ${5:播放次數};
+animation-direction: ${6:播放方向};
+animation-fill-mode: ${7:填充模式};
+animation-play-state: ${8:running} ${9:paused};
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>動畫</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

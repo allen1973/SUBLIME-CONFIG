@@ -1,0 +1,18 @@
+<style>
+.collapsediv,
+#show,
+#hide:target {
+    display: none;
+}
+
+#hide:target + #show,
+#hide:target ~ .collapsediv {
+    display:block;
+
+}
+</style>
+<a href="#hide" id="hide">Show</a>
+<a href="#show" id="show">Hide</a>
+<div class="collapsediv">
+    <p>Answer</p>
+</div>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+animation-direction: ${1:reverse} ${2:alternate};
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>動畫</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

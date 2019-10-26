@@ -1,0 +1,21 @@
+﻿
+<snippet>
+	<content><![CDATA[<div class="dropdown">
+  <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenuDivider" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+    Dropdown
+    <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu" aria-labelledby="dropdownMenuDivider">
+    <li><a href="#">按我</a></li>
+    <li><a href="#">更多</a></li>
+    <li><a href="#">有人在</a></li>
+    <li role="separator" class="divider"></li>
+    <li><a href="#">相關</a></li>
+  </ul>
+</div>]]></content>
+
+
+<description>下拉選單Divider</description>
+<tabTrigger>bsdrop</tabTrigger>
+</snippet>
+

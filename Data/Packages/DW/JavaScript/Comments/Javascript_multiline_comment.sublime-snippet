@@ -1,0 +1,21 @@
+﻿<snippet>
+	<content><![CDATA[/* Comment begins here
+
+]]></content>
+
+
+
+
+
+	<content><![CDATA[
+
+Comment ends here*/]]></content>
+
+
+
+
+<tabTrigger>dwjs</tabTrigger>
+<description>Javascript multiline comment</description>
+</snippet>
+
+

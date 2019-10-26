@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<div class="card">
+  <div class="card-block">
+    <h4 class="card-title">卡片標題</h4>
+    <h6 class="card-subtitle text-muted">Support card subtitle</h6>
+  </div>
+  <img data-src="holder.js/100px180/?text=Image" alt="Card image">
+  <div class="card-block">
+    <p class="card-text">卡片內文</p>
+    <a href="#" class="card-link">卡片連結</a>
+    <a href="#" class="card-link">其他連結</a>
+  </div>
+</div>
+]]></content><tabTrigger>card</tabTrigger>
+    <description>card</description>
+</snippet>

@@ -1,0 +1,12 @@
+﻿<snippet>
+	<content><![CDATA[<!-- Badge without a Button -->
+<a href="#">Inbox <span class="badge">42</span></a>
+
+
+]]></content>
+
+
+<description>a Badge</description>
+<tabTrigger>bsbadge</tabTrigger>
+</snippet>
+

@@ -1,0 +1,9 @@
+﻿<snippet>
+	<content><![CDATA[<div class="container">
+</div>]]></content>
+
+
+<description>Container固定</description>
+<tabTrigger>bsdiv</tabTrigger>
+</snippet>
+

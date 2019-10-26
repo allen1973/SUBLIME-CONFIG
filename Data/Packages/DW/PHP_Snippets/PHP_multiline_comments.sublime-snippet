@@ -1,0 +1,20 @@
+﻿<snippet>
+	<content><![CDATA[ /*Comment begins
+
+]]></content>
+
+
+
+
+
+	<content><![CDATA[
+
+Comment ends */]]></content>
+
+
+
+<description>PHP multiline comments</description>
+<tabTrigger>PHP</tabTrigger>
+</snippet>
+
+

@@ -1,0 +1,66 @@
+<snippet>
+	<content><![CDATA[
+<!-- 3 large images table -->
+<table width="560" border="0" cellspacing="0" cellpadding="0" align="center" class="fit-width">
+  <tr>
+    <td width="173" align="center" valign="top" class="float-left">
+      <table width="173" border="0" cellspacing="0" cellpadding="0" class="float-left">
+        <tr>
+          <td align="center"><img src="http://placehold.it/173x220" width="173" height="220" class="mobile-image" alt="" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; background:#ebebeb;color:#006699;-ms-interpolation-mode: bicubic;" border="0"/></td>
+        </tr>
+        <tr>
+          <td style="font-size:1px; height:15px" height="15px">&nbsp;</td>
+        </tr>
+        <tr>
+          <td style="text-align:left; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:18px; color:#666666;" class="mobile-centre-text">官是了一變我國我天特話庭！
+
+前入著念委題發職水可經，說要企色用他成該從。元火變。是我可程乎近刻信洲文因便異！業資心的問不很是頭相心痛一……家響備就水用心更為司。
+
+建心管了事水人明？</td>
+        </tr>
+      </table>
+    </td>
+    <td width="20" class="float-left">&nbsp;</td>
+    <td width="173" align="center" valign="top" class="float-left">
+      <table width="173" border="0" cellspacing="0" cellpadding="0" class="float-left">
+        <tr>
+          <td align="center"><img src="http://placehold.it/173x220" width="173" height="220" class="mobile-image" alt="" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; background:#ebebeb;color:#006699;-ms-interpolation-mode: bicubic;" border="0"/></td>
+        </tr>
+        <tr>
+          <td style="font-size:1px; height:15px" height="15px">&nbsp;</td>
+        </tr>
+        <tr>
+          <td style="text-align:left; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:18px; color:#666666;" class="mobile-centre-text">低會靜景北請月望青真我人動必處金了斯正；面以我然樣！助金是主開一手更落的還識第有，差理打。們量一經；育以用議，能專來房關，同麼的科音魚選因此民就重心離山身面得詩此場第結歷地施，能常一西一太和，創加王全是識客藝毒都，地著連小要向品在己什不；像體量手土，優語我麗大臺造不就我做決有簡！依熱依民查。
+
+</td>
+        </tr>
+      </table>
+    </td>
+    <td width="20" class="float-left">&nbsp;</td>
+    <td width="173" align="center" valign="top" class="float-left">
+      <table width="173" border="0" cellspacing="0" cellpadding="0" class="float-left">
+        <tr>
+          <td align="center"><img src="http://placehold.it/173x220" width="173" height="220" class="mobile-image" alt="" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; background:#ebebeb;color:#006699;-ms-interpolation-mode: bicubic;" border="0"/></td>
+        </tr>
+        <tr>
+          <td style="font-size:1px; height:15px" height="15px">&nbsp;</td>
+        </tr>
+        <tr>
+          <td style="text-align:left; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:18px; color:#666666;" class="mobile-centre-text">官是了一變我國我天特話庭！
+
+前入著念委題發職水可經，說要企色用他成該從。元火變。是我可程乎近刻信洲文因便異！業資心的問不很是頭相心痛一……家響備就水用心更為司。
+
+建心管了事水人明？</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<!-- // 3 large images table -->
+
+]]></content>
+	
+	<tabTrigger>EDM</tabTrigger> 
+    <description>layout:3col</description>
+	<scope>text.html</scope>
+</snippet>

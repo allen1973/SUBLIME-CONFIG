@@ -1,0 +1,13 @@
+﻿<snippet>
+	<content><![CDATA[function yourFunction()
+{
+]]></content>
+
+
+
+
+
+<description>Starter_Function_csn</description>
+<tabTrigger>dwjs</tabTrigger>
+</snippet>
+

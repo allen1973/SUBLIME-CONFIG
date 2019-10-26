@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+# Enable post format images
+add_theme_support( 'genesis-post-format-images' );
+]]></content>
+	<tabTrigger>WPST</tabTrigger>
+	
+	<description>post format images</description>
+</snippet>

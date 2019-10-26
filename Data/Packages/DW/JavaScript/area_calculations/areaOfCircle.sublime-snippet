@@ -1,0 +1,12 @@
+﻿<snippet>
+	<content><![CDATA[function areaOfCircle(radius) { return Math.PI * Math.pow(radius, 2); }
+
+]]></content>
+
+
+
+<tabTrigger>dwjs</tabTrigger>
+<description>aarea Of Circle</description>
+</snippet>
+
+

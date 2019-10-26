@@ -1,0 +1,23 @@
+﻿
+
+<snippet>
+	<content><![CDATA[<div class="dropdown">
+  <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenuHeader" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+    Dropdown
+    <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu" aria-labelledby="dropdownMenuHeader">
+    <li class="dropdown-header">Dropdown header</li>
+    <li><a href="#">按我</a></li>
+    <li><a href="#">更多</a></li>
+    <li><a href="#">有人在</a></li>
+    <li class="dropdown-header">Dropdown header</li>
+    <li><a href="#">相關</a></li>
+  </ul>
+</div>]]></content>
+
+
+<description>下拉選單標題</description>
+<tabTrigger>bsdrop</tabTrigger>
+</snippet>
+

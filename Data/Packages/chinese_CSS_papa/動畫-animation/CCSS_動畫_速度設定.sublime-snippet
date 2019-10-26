@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+animation-timing-function: ${1:ease} ${2:linear} ${3:ease-in} ${4:ease-out} ${5:ease-in-out};
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>動畫</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
