@@ -5,6 +5,8 @@
 	],
 	"installed_packages":
 	[
+		"EditorConfig",
+		"EditorConfigSnippets",
 		"Emmet",
 		"Emmet Css Snippets",
 		"FakeImg.pl Image Placeholder Snippet",
