@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Emmet",
+		"Emmet Css Snippets",
 		"Package Control"
 	]
 }
