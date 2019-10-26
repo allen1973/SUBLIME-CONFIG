@@ -5,12 +5,32 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
+		"Auto-Spacing",
+		"ChineseLocalizations",
+		"ChineseLoremIpsum",
+		"Color Highlighter",
+		"ColorPick",
+		"ConvertChineseCharacters",
+		"CSS To SASS And Stylus Converter",
 		"EditorConfig",
 		"EditorConfigSnippets",
 		"Emmet",
 		"Emmet Css Snippets",
 		"FakeImg.pl Image Placeholder Snippet",
+		"Genesis",
+		"Gulp",
+		"HTML-CSS-JS Prettify",
+		"Icon Fonts",
+		"iconfont snippets",
 		"Material Theme - Appbar",
-		"Package Control"
+		"Neat Sass Snippets",
+		"Package Control",
+		"Sass",
+		"SASS Snippets",
+		"SassSolution",
+		"SCSS",
+		"Seti_UI",
+		"Snippet Destroyer"
 	]
 }

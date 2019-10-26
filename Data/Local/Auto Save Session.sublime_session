@@ -155,7 +155,18 @@
 			"buffers":
 			[
 				{
+					"contents": "\"\",\n\t\t\"\",\n\t\t\"Boxy Theme\",\n\t\t\"ChineseLoremIpsum\",\n\t\t\"\",\n\t\t\"ColorHelper\",\n\t\t\"\",\n\t\t\"\",\n\t\t\"\",\n\t\t\"CSS-On-Diet\",\n\t\t\n\t\t\"FileZilla SFTP Import\",\n\t\t\"Genesis\",\n\t\t\"Gulp\",\n\t\t\"HTML-CSS-JS Prettify\",\n\t\t\"Icon Fonts\",\n\t\t\" snippets\",\n\t\t\"Jade\",\n\t\t\"Material Theme - Appbar\",\n\t\t\"Package Control\",\n\t\t\"Sass\",\n\t\t\"\",\n\t\t\"SCSS\",\n\t\t\"SCSS Snippets\",\n\t\t\"\",\n\t\t\"Snippet Destroyer\",\n\t\t\"TortoiseGit Context Integration\",\n\t\t\"WordPress\"\n\n\n{\n\t\"bootstrapped\": true,\n\t\"in_process_packages\":\n\t[\n\t],\n\t\"installed_packages\":\n\t[\n\t\t\"\",\n\t\t\"\",\n\t\t\"ChineseLocalizations\",\n\t\t\"\",\n\t\t\"\",\n\t\t\"\",\n\t\t\"CSS To SASS And Stylus Converter\",\n\t\t\"\",\n\t\t\"\",\n\t\t\"\",\n\t\t\" Css \",\n\t\t\"FakeImg.pl Image Placeholder Snippet\",\n\t\t\"Gulp\",\n\t\t\"HTML-CSS-JS Prettify\",\n\t\t\"Icon Fonts\",\n\t\t\" snippets\",\n\t\t\"Material Theme - Appbar\",\n\t\t\"Neat Sass Snippets\",\n\t\t\"Package Control\",\n\t\t\"Sass\",\n\t\t\"SASS Snippets\",\n\t\t\"SassSolution\",\n\t\t\"SCSS\",\n\t\t\"Seti_UI\"\n\t]\n}\n\n\n\n",
+					"settings":
+					{
+						"buffer_size": 869,
+						"line_ending": "Windows"
+					}
+				},
+				{
 					"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n\t<meta charset=\"UTF-8\">\n\t<title>Document</title>\n</head>\n<body>\n\t\n</body>\n</html>",
+					"file": "/X/sbt3/SUBLIME-CONFIG/Data/Packages/tgit-st3/tgit-st3.sublime-settings",
+					"file_size": -1,
+					"file_write_time": -1,
 					"settings":
 					{
 						"buffer_size": 121,
@@ -163,25 +174,22 @@
 					}
 				},
 				{
-					"contents": "",
-					"file": "/X/sbt3/SUBLIME-CONFIG/Data/Packages/tgit-st3/tgit-st3.sublime-settings",
-					"file_size": -1,
-					"file_write_time": -1,
+					"contents": "Package Control Messages\n========================\n\nEmmet\n-----\n\n  Thank you for installing Emmet -- a toolkit that can greatly improve your workflow. Note that this plugin automatically downloads and installs PyV8 binary (see status bar message). \n  \n  ******************************\n  Please restart editor \n  to finish installation process \n  after PyV8 was downloaded.\n  ******************************\n  \n  Tab key handler\n  ==========================\n  \n  By default, Emmet allows you to expand abbreviations with Tab key in HTML, XML, HAML and CSS/SASS/LESS/Stylus documents. As a side effect, you can’t use some of your ST2 snippets.\n  \n  Please read https://github.com/sergeche/emmet-sublime#tab-key-handler about how Tab handler works and how to tweak its behavior to match your needs.\n  \n  Enter key\n  ==========================\n  \n  In HTML and XML documents, Emmet overrides Enter key to insert formatted line breaks between opening and closing tags. In some cases it will break character input (for example, in Japanese language).\n  \n  To disable Enter key handler, simply add the following option in your user's Preferences file:\n  \n  \"disable_formatted_linebreak\": true\n  \n  Actions shortcuts\n  ==========================\n  \n  Emmet has a number of actions with keyboard shortcuts that may override ones you're using commonly (for example, Ctrl-E or Ctrl-Down). Please read the project main page to get list of available actions and keyboard shortcuts and how to disable them:\n  https://github.com/sergeche/emmet-sublime\n  \n  Documentation and examples:\n  http://emmet.io\n  \n  ------------------------------\n  Follow me on Twitter: @emmetio\n  ------------------------------\n\n\nEmmet Css Snippets\n------------------\n\n  \n  Emmet CSS Snippets\n  \n  Thank you for installing Emmet CSS Snippets. This package is an alternative for Emmet and a few snippet triggers were changed, please check the cheat sheet at http://p233.github.io/Emmet-Css-Snippets-for-Sublime-Text-2/\n  \n  ## Features\n  \n  * Works with default CSS package, [LESS](https://sublime.wbond.net/packages/LESS), and [Syntax Highlighting for Sass](https://sublime.wbond.net/packages/Syntax%20Highlighting%20for%20Sass)\n  * Two versions: `has-Prefix` or `no-Prefix`\n  * Smart completion rule: propery snippes will no longer popup when you typing propery values\n  * Pseudo class completions\n  * Extra propery value completions\n  \n  ## Prefix\n  \n  If you intend to use snippets with no prefix, add `has-Prefix` into the ignored_packages list of your settings file. The other way round, if you intend to use snippets with prefix, add `no-Prefix` into the ignored_packages list.\n  \n  -------------\n  Enjoy coding!\n\n\nMaterial Theme - Appbar\n-----------------------\n\n  ___  ___      _            _       _       _____ _\n  |  \\/  |     | |          (_)     | |     |_   _| |\n  | .  . | __ _| |_ ___ _ __ _  __ _| |       | | | |__   ___ _ __ ___   ___\n  | |\\/| |/ _` | __/ _ \\ '__| |/ _` | |       | | | '_ \\ / _ \\ '_ ` _ \\ / _ \\\n  | |  | | (_| | ||  __/ |  | | (_| | |       | | | | | |  __/ | | | | |  __/\n  \\_|  |_/\\__,_|\\__\\___|_|  |_|\\__,_|_|       \\_/ |_| |_|\\___|_| |_| |_|\\___|\n  \n  Material Theme - White Panels Addon\n  https://github.com/equinusocio/material-theme-appbar\n  \n  ******************************************************************************\n  \n  With this addon you can add a tinted app bar to your Material Theme installation.\n  This addon auto fits with material theme accent colors!\n  \n  NOTE: If you've intalled 1.0.0 through Package Control please unistall and reinstall\n  \n  ## Addon options\n  \n  ```json\n  \"material_theme_tree_headings\": true , // Show siderbar headings\n  ```\n\n\nGulp\n----\n\n     _____       _       \n    / ____|     | |      \n   | |  __ _   _| |_ __  \n   | | |_ | | | | | '_ \\ \n   | |__| | |_| | | |_) |\n    \\_____|\\__,_|_| .__/ \n                  | |    \n                  |_|    \n  \n  \n  Sorry to interrupt\n  ==================\n  \n  First of all, thanks for installing sublime-gulp!\n  \n  You can start using it now by choosing 'Gulp' from your command pallete or selecting one of the available snippets.\n  \n  If you want to know a bit more of what you can do with the package you can:\n  \n  * Check the package settings on Preference -> Package Settings -> Gulp -> Settings - Default\n  \n  * Take a look at the README at: https://github.com/NicoSantangelo/sublime-gulp \n  \n  \n  For issues or feature requests, head over to https://github.com/NicoSantangelo/sublime-gulp/issues\n  \n  Thanks again!\n\n\nSeti_UI\n-------\n\n  # Install\n  ---------------\n  Activate the 'Theme' by modifying your user preferences file, which you can find using the menu item\n  `Preferences -> Settings - User` in Sublime Text\n  or use\n  `Schemr` & `Themr` by [Ben Weier](https://github.com/benweier).\n  \n  \n  ## Example\n  ---------------\n  ```\n  {\n    \"theme\": \"Seti.sublime-theme\",\n  \n    \"caret_extra_width\": 2,                 //  to have a wider/thicker caret\n    \"caret_extra_bottom\": 3,                //  to make the caret = to the line height (the theme currently support 0,3,5)\n    \"caret_extra_top\": 3,\n  \n    \"overlay_scroll_bars\": \"enabled\",       //  to show scrollbars only when scrolling\n    \"highlight_line\": true,                 //  to highlight the current line\n  }\n  ```\n  \n  ### notes\n  ---------------\n  - please check the readme for more theme options.\n  \n  - copy the (Resource/fold.png) \"or edit it if you want\" to (Packages/Theme - Default) to override the _focken default yellow code_folding icon.\n  \n  - for better recognition of file types, its recommended to install [Apply​Syntax](https://sublime.wbond.net/packages/ApplySyntax) by facelessuser.\n  \n  \n  ## Fonts\n  ----------------------\n  https://www.fontsquirrel.com/fonts/fira-mono\n  https://www.fontsquirrel.com/fonts/source-code-pro\n  https://www.fontsquirrel.com/fonts/ubuntu-mono\n  http://sourcefoundry.org/hack/\n\n\nChineseLocalizations\n--------------------\n\n  Switch between language in Main Menu Help/Language/\n  When uninstalling this plugin, it will switch back to English.\n  \n  请使用主菜单的 帮助/Language 子菜单来切换语言。 目前支持 简体中文 繁体中文 日本語 德语 法语 俄语等。 \n  要换回英语不需要卸载本插件，请直接从菜单切换英文。\n  \n  现在带有多个版本的翻译文件，可以支持Sublime Text 3的各个版本。\n  \n  請使用主選單的 說明/Language 子選單來切換語言。 目前支援 簡體中文 正體中文 日本語 德語 法語 俄語等。 \n  要換回英文不需要移除本外掛程式，請直接從選單切換成英文。\n  \n  現在帶有多個版本的翻譯檔案，可以支援Sublime Text 3的各個版本。\n\n\nColor Highlighter\n-----------------\n\n  \n  Color Highlighter v8.0 is released!\n  \n  For more info about the plugin visit https://github.com/Monnoroch/ColorHighlighter.\n  \n  Color Highlighter was developed for many years and features were added without consideration.\n  As a result it has plenty of bugs and code is completely unmaintainable.\n  Because of it, I've decided to rewrite the plugin from scratch using all the good programming practices I learned\n  over the years.\n  \n  This is the first release of the new version and it might have some subtle bugs, especially on Windows and Mac, as I\n  don't have machines with these systems. If you find any bugs, please file them in\n  the bug tracker here: https://github.com/Monnoroch/ColorHighlighter/issues. I always appreciate your help and try to fix\n  problems as soon as possible.\n  \n  The plugin is being developed by me alone in my spare time, so if you want to encourage me to build it\n  better and faster, donations as always welcome.\n  \n  Thank you guys for your support, every little bit helps!\n\n\nIcon Fonts\n----------\n\n  Deprecated Icon Fonts\n  =====================\n  \n  This is a reminder that as of v3.0.0 several icon fonts have been removed from\n  this package:\n  \n  - Elegant Theme Line Icons\n  - Foundation Icons 1.0\n  - Glyphicons Filetypes\n  - Glyphicons Halflings\n  - Glyphicons Pro\n  - Glyphicons Social\n  \n  If you need support for any of the removed icons, you can install the separate\n  \"Icon Fonts (Legacy)\" package.\n  \n  Details at the \"Icon Fonts (Legacy)\" repository on GitHub:\n  \n  https://github.com/idleberg/sublime-icon-fonts-legacy\n\n\niconfont snippets\n-----------------\n\n  =============================================\n  Thank you for installing iconfont snippets\n  =============================================\n  \n  iconfont snippets for Amos is a selection of snippets\n  that will greatly improve your workflow.\n  \n  This package is compatible with both Sublime\n  Text versions 2 & 3.\n  \n  \n  Documentation, examples & issue filing can be found here:\n  https://github.com/badprint/ST-iconFont-snippets/\n  \n  \n  ### Dependency \n  \n  You need bootstrap3 ＆ font awesome file\n  \n  \n  ### How to use ?\n  \n  Type you want iconfont chinese keyword and Choose it.\n  \n  \n  ### Give your feedback on https://github.com/badprint/ST-iconFont-snippets/\n  \n  \n  ------------------------------\n  Follow me on facebook: https://www.facebook.com/banPrint\n  ------------------------------\n  \n  fork and Amos conversion of https://github.com/badprint/ST-iconFont-snippets/\n  \n  -----------------------------\n  follow him on https://www.facebook.com/banPrint\n  -----------------------------\n  \n  ===========================================================================\n  謝謝您安裝 iconfont snippet，本外掛內建 bootstrap3 ＆ font awesome 圖示字的原始碼片段，使用時須自行連結CSS檔案及字體檔案 所有原始碼取自 bootstrap ＆ font awesome 官方網站，僅提供開發者建立原始碼之便利性。\n  \n  \n  使用方式 : 輸入您欲使用的icon類型中文關鍵字後按下Tab鍵（如「垃圾桶」或「箭頭」），Sublime即會顯示符合此關鍵字條件的icon清單，使用滑鼠點選或鍵盤方向鍵選擇欲使用的項目即可。不同的清單字首表示不同的icon font\n  \n  bsi 表示 bootstrap icon font\n  fai 表示 font awesome icon font\n  使用 facdn 可產出 font awesome 的CSS雲端連結\n  使用 bscdn 可產出 bootstrap3 的CSS雲端連結\n  注意事項 : 本外掛僅有圖示片段，未包含bootstrap & font awesome CSS原始檔與字體檔案\n\n\nSass\n----\n\n  Sass 2.0\n  ======================\n  \n  Thank you for installing Sass for Sublime Text.\n  \n  2.0 supports things like flex-box syntax, custom properties, function snippets\n  and more for both Sass and SCSS.\n  It is now also in line with the scope naming guidelines for Sublime Text 3.0,\n  highlighting should be very similar to CSS and LESS.\n  \n  If something doesn't work for you let us know at:\n  https://github.com/braver/SublimeSass\n  \n  1.x is still available as a different package: \"Syntax Highlighting for Sass\":\n  https://github.com/P233/Syntax-highlighting-for-Sass\n\n\nSASS Snippets\n-------------\n\n  Sass Snippets for Sublime\n  =========================\n  \n  Sass snippets for Sublime text 2/3.\n  \n  \n  Content\n  =======\n  \n  - Directives snippets\n  - Flags snippets\n  - Functions snippets\n  - CSS Extensions snippets\n  \n  \n  Authors\n  =======\n  \n  Claudio Sanches\n      Twitter : @claudiosmweb\n      Github  : https://github.com/claudiosmweb\n  \n  Vitor Britto\n      Twitter : @vitorbritto\n      Github  : https://github.com/vitorbritto\n  \n  \n  Support\n  =======\n  \n  Please direct any feedback to <sublimebrasil@vitorbritto.com.br> or through github at https://github.com/sublimebrasil/sublime-snippets-sass.\n  \n  Thank you for your support.\n\n\nCSS To SASS And Stylus Converter\n--------------------------------\n\n  Thank you for installing the plugin!\n  \n  Please submit an issue on github if you have any ideas to improve the plugin.\n  https://github.com/lnikell/css-converter/issues\n  \n  You can easily configure it with the following settings:\n  \n  {\n    \"colon\": true\n  }\n  \n  Default hotkey is \"ctrl + v\", but you could change it to another:\n  \n  [\n    { \"keys\": [\"ctrl+v\"], \"command\": \"css_to_sass\" },\n  ]\n\n\nChineseLoremIpsum\n-----------------\n\n  Thank you for installing ChineseLoremIpsum\n  \n  Start\n  ==========================\n  \n  By default, just type 'Clorem' and press Alt + C, Chinese lorem just pop out.\n  \n  \n  With character counts\n  ==========================\n  \n  Pop how many characters you want by adding number after 'Clorem', like\n  'Clorem200'.\n  \n  \n  Switch between traditional Chinese and simplified Chinese\n  ==========================\n  \n  Default output is simplified Chinese. To switch to tradition Chinese, just\n  enter 'CTlorem' instead 'Clorem'. Default output will become traditional\n  Chinese.\n  \n  To switch back to simplified Chinese, just enter 'CSlorem' insted 'Clorem'.\n  \n  \n  Issues\n  ==========================\n  If you encounter any issues, create a ticket at github to let me know.\n  \n  https://github.com/cjltsod/sublime-ChineseLoremIpsum/issues\n\n\nSnippet Destroyer\n-----------------\n\n  # sublime-snippet-destroyer\n  \n  Destroy all [Sublime Text][] completions and snippets.\n  \n  [Sublime Text]: http://sublimetext.com/\n  \n  Have you ever been humming along, using `Tab` to fill out previously used variables, then *bam* you autocomplete to a snippet? Your flow is broken and frustrated at no easy way to remove the default snippets.\n  \n  Well, suffer no more! `sublime-snippet-destroyer` seeks and destroys all completions and snippets.\n  \n  > `sublime-snippet-destroyer` does not aim to allow for restoration of snippets. If we started doing that, then we should make a full-fledged snippet manager.\n  \n  ## Sublime Text 3 setup\n  Currently, Sublime Text 2 will work out of the box. However, for Sublime Text 3 we must extract all its packages first. This can be done via the \"Extract Sublime Package: Extract all packages\" command in the \"ExtractSublimePackage\" module.\n  \n  https://github.com/SublimeText/ExtractSublimePackage\n  \n  ## Usage\n  `sublime-snippet-destroyer` provides a new command to the command pallete **\"Destroy all snippets!!\"**\n  \n  If you are using Sublime Text 3, then please see [Sublime Text 3 setup](#sublime-text-3-setup) first.\n  \n  When this is ran, it finds all `.sublime-snippet` + `.sublime-completions` + `.tmSnippet` files in your [Sublime Text][] Packages directory.\n  \n  If no snippets are found, you will be informed as such.\n  \n  If snippets are found, you will be prompted to confirm in their deletion. If you approve, they will be removed from disk.\n  \n  There is currently one section we cannot erase which is any plugin with a `on_query_completions` method (e.g. `CSS` and `HTML`). These are baked in to `EventListener` commands and cannot be scrubbed easily. As a result, you must delete these files manually.\n  \n  ## Donating\n  Support this project and [others by twolfson][gittip] via [gittip][].\n  \n  [gittip]: https://www.gittip.com/twolfson/\n  \n  ## Unlicense\n  As of Nov 20 2013, Todd Wolfson has released this repository and its contents to the public domain.\n  \n  It has been released under the [UNLICENSE][].\n  \n  [UNLICENSE]: ../UNLICENSE\n",
 					"settings":
 					{
-						"buffer_size": 0,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"contents": "Package Control Messages\n========================\n\nEmmet\n-----\n\n  Thank you for installing Emmet -- a toolkit that can greatly improve your workflow. Note that this plugin automatically downloads and installs PyV8 binary (see status bar message). \n  \n  ******************************\n  Please restart editor \n  to finish installation process \n  after PyV8 was downloaded.\n  ******************************\n  \n  Tab key handler\n  ==========================\n  \n  By default, Emmet allows you to expand abbreviations with Tab key in HTML, XML, HAML and CSS/SASS/LESS/Stylus documents. As a side effect, you can’t use some of your ST2 snippets.\n  \n  Please read https://github.com/sergeche/emmet-sublime#tab-key-handler about how Tab handler works and how to tweak its behavior to match your needs.\n  \n  Enter key\n  ==========================\n  \n  In HTML and XML documents, Emmet overrides Enter key to insert formatted line breaks between opening and closing tags. In some cases it will break character input (for example, in Japanese language).\n  \n  To disable Enter key handler, simply add the following option in your user's Preferences file:\n  \n  \"disable_formatted_linebreak\": true\n  \n  Actions shortcuts\n  ==========================\n  \n  Emmet has a number of actions with keyboard shortcuts that may override ones you're using commonly (for example, Ctrl-E or Ctrl-Down). Please read the project main page to get list of available actions and keyboard shortcuts and how to disable them:\n  https://github.com/sergeche/emmet-sublime\n  \n  Documentation and examples:\n  http://emmet.io\n  \n  ------------------------------\n  Follow me on Twitter: @emmetio\n  ------------------------------\n\n\nEmmet Css Snippets\n------------------\n\n  \n  Emmet CSS Snippets\n  \n  Thank you for installing Emmet CSS Snippets. This package is an alternative for Emmet and a few snippet triggers were changed, please check the cheat sheet at http://p233.github.io/Emmet-Css-Snippets-for-Sublime-Text-2/\n  \n  ## Features\n  \n  * Works with default CSS package, [LESS](https://sublime.wbond.net/packages/LESS), and [Syntax Highlighting for Sass](https://sublime.wbond.net/packages/Syntax%20Highlighting%20for%20Sass)\n  * Two versions: `has-Prefix` or `no-Prefix`\n  * Smart completion rule: propery snippes will no longer popup when you typing propery values\n  * Pseudo class completions\n  * Extra propery value completions\n  \n  ## Prefix\n  \n  If you intend to use snippets with no prefix, add `has-Prefix` into the ignored_packages list of your settings file. The other way round, if you intend to use snippets with prefix, add `no-Prefix` into the ignored_packages list.\n  \n  -------------\n  Enjoy coding!\n",
-					"settings":
-					{
-						"buffer_size": 2679,
+						"buffer_size": 14292,
 						"line_ending": "Windows",
 						"name": "Package Control Messages",
 						"read_only": true,
 						"scratch": true
+					}
+				},
+				{
+					"file": "/X/sbt3/SUBLIME-CONFIG/Data/Packages/User/Package Control.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 652,
+						"line_ending": "Unix"
 					}
 				}
 			],
@@ -203,6 +211,14 @@
 					[
 						"html",
 						"Set Syntax: HTML"
+					],
+					[
+						"pc",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Upgrade/Overwrite All Packages"
 					]
 				],
 				"width": 392.0
@@ -225,13 +241,14 @@
 			},
 			"file_history":
 			[
-				"/X/sbt3/SUBLIME-CONFIG/Data/Packages/Emmet/Emmet.sublime-settings",
 				"/X/sbt3/SUBLIME-CONFIG/Data/Packages/User/Package Control.sublime-settings",
+				"/X/sbt3/SUBLIME-CONFIG/Data/Packages/Package Control/Package Control.sublime-settings",
+				"/X/sbt3/SUBLIME-CONFIG/Data/Packages/Emmet/Emmet.sublime-settings",
 				"/D/isolinux/isolinux.cfg"
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 27.0
 			},
 			"find_in_files":
 			{
@@ -245,6 +262,21 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"iconfont",
+					"Emmet",
+					"Snippets",
+					"EditorConfig",
+					"SS To SASS And Stylus Converter",
+					"ConvertChineseCharacters",
+					"ColorPick",
+					"Color Highlighter",
+					"ChineseLocalizations",
+					"Auto-Spacing",
+					"A File Icon",
+					"CSS To SASS And Stylus Converter",
+					"Sass",
+					"SASS Snippets",
+					"Seti_UI"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -262,7 +294,7 @@
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 0,
 					"sheets":
 					[
 						{
@@ -270,15 +302,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 121,
+								"buffer_size": 869,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										121,
-										121
+										350,
+										350
 									]
 								],
 								"settings":
@@ -289,7 +321,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 0,
 							"type": "text"
 						},
 						{
@@ -298,26 +330,26 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 0,
+								"buffer_size": 121,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										72,
+										80
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 3,
 							"type": "text"
 						},
 						{
@@ -325,15 +357,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2679,
+								"buffer_size": 14292,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1585,
-										1577
+										1654,
+										1654
 									]
 								],
 								"settings":
@@ -344,10 +376,39 @@
 									"word_wrap": true
 								},
 								"translation.x": 0.0,
+								"translation.y": 5292.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/X/sbt3/SUBLIME-CONFIG/Data/Packages/User/Package Control.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 652,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										188,
+										188
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 2,
 							"type": "text"
 						}
 					]
@@ -355,7 +416,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 27.0
 			},
 			"input":
 			{
@@ -393,7 +454,7 @@
 			"project": "",
 			"replace":
 			{
-				"height": 0.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
