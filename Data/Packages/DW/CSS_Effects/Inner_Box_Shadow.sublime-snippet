@@ -1,0 +1,21 @@
+﻿<snippet>
+	<content><![CDATA[/*Add the following properties to the selector to which the effect has to be applied */
+
+/* Chrome, Safari */
+
+-webkit-box-shadow: inset ${1:5}px ${1:5}px {$2:14}px {$3:#1abc9c};
+
+/* Firefox */
+
+-moz-box-shadow: inset ${1:5}px ${1:5}px {$2:14}px {$3:#1abc9c};
+
+/* Standard syntax */
+
+box-shadow: inset ${1:5}px ${1:5}px {$2:14}px {$3:#1abc9c};]]></content>
+
+
+<description>Effect:Inner Box Shadow</description>
+<tabTrigger>dwcss</tabTrigger>
+</snippet>
+
+

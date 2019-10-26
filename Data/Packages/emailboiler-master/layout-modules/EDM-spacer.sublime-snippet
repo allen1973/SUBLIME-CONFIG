@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<!-- spacer table -->
+<table width="560" border="0" cellspacing="0" cellpadding="0" align="center" class="fit-width">
+  <tr>
+    <td height="20">&nbsp;</td>
+  </tr>
+</table>
+<!-- // spacer table -->
+]]></content>
+	
+	<tabTrigger>EDM</tabTrigger> 
+	  <description>layout:spacer</description>
+	<scope>text.html</scope>
+</snippet>

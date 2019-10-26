@@ -1,0 +1,34 @@
+
+
+<snippet>
+	<content><![CDATA[
+<div class="card-group">
+  <div class="card">
+    <img class="card-img-top"  src="https://api.fnkr.net/testimg/100px180/" alt="Card image cap">
+    <div class="card-block">
+      <h4 class="card-title">卡片標題</h4>
+      <p class="card-text">手機小卡片</p>
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+  <div class="card">
+    <img class="card-img-top"  src="https://api.fnkr.net/testimg/100px180/" alt="Card image cap">
+    <div class="card-block">
+      <h4 class="card-title">卡片標題</h4>
+      <p class="card-text">手機小卡片</p>
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+  <div class="card">
+    <img class="card-img-top"  src="https://api.fnkr.net/testimg/100px180/" alt="Card image cap">
+    <div class="card-block">
+      <h4 class="card-title">卡片標題</h4>
+      <p class="card-text">手機小卡片</p>
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+</div>
+]]></content>
+<tabTrigger>card</tabTrigger>
+    <description>small devices</description>
+</snippet>

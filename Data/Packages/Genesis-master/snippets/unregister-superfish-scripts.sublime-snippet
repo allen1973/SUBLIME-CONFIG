@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+add_action( 'wp_enqueue_scripts', 'unregister_superfish' );
+/**
+ * Unregisters superfish scripts
+ *
+ * @return void
+ */
+function unregister_superfish() {
+	wp_deregister_script( 'superfish' );
+	wp_deregister_script( 'superfish-args' );
+}
+]]></content>
+	<tabTrigger>WPST</tabTrigger>
+	
+	<description>ursuperfish</description>
+</snippet>

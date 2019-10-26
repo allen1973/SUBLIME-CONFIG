@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<span class="badge">${1:10}</span>
+]]></content>
+	<tabTrigger>bs徽章</tabTrigger>
+</snippet>

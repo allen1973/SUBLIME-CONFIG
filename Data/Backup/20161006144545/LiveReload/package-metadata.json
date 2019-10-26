@@ -1,0 +1,1 @@
+{"sublime_text": ">=3000", "platforms": ["*"], "url": "https://github.com/alepez/LiveReload-sublimetext3", "version": "0.1.2", "description": "LiveReload plugin for SublimeText", "dependencies": []}

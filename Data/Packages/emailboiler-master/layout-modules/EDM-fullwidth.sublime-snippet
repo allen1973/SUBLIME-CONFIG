@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+<!-- header table -->
+<table width="560" border="0" cellpadding="0" cellspacing="0" align="center" class="float-left">
+  <tr>
+    <td style="font-size:1px; height:15px" height="15px">&nbsp;</td>
+  </tr>
+  <tr>
+    <td style="text-align:left; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:18px; color:#666666;" class="paragraph">
+路心任發可燈形希的他一說觀所，讓寶縣樣作日再和，度營了得，實的成唱縣位創聽強男內的本為當或的謝看面果，產幾的是此不器只兩件題向完兩狀開：口庭走究是高景影八作城收。德查仍想意道我。會下人河社然跟才人果，的元重少著和告過評獎非。們不怎！長部無人以是法工訴後不落式樹工間如來以管臺自氣沒試專。不生的裡分種舉為：公地己身、半他站讀在年才認笑戲人絕事到我。人景頭因員現近怕雜受？
+    </td>
+  </tr>
+  <tr>
+    <td style="font-size:1px; height:15px" height="15px">&nbsp;</td>
+  </tr>
+</table>
+<!-- // header table -->
+]]></content>
+	
+	<tabTrigger>EDM</tabTrigger> 
+    <description>layout:fullwidth</description>
+	<scope>text.html</scope>
+</snippet>

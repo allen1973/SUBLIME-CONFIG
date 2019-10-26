@@ -1,0 +1,32 @@
+<snippet>
+<content><![CDATA[
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>$1</title>
+    <meta name="description" content="$2" />
+    <meta name="keywords" content="$3" />
+    <meta name="author" content="$4" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, ${5:maximum-scale=1.0, user-scalable=0}" />
+    <link rel="shortcut icon" href="images/${6:favicon}.ico" type="image/x-icon" />
+    ${7:<link rel="stylesheet" href="css/bootstrap.min.css">}
+    <link rel="stylesheet" href="css/${8:screen}.css" media="screen" />
+    ${9:<link rel="stylesheet" href="css/plugin.css" media="screen" />}
+    ${10:<link rel="stylesheet" media="screen and (max-width: 479px)" href="css/portrait.css">}
+    ${11:<link rel="stylesheet" media="screen and (min-width: 480px) and (max-width: 767px)" href="css/landscape.css">}
+    <link rel="stylesheet"href="css/print.css" media="print" />
+  </head>
+  <body>
+    <script src="js/${12:plugin}.js"></script>
+    <script src="js/${13:main}.js"></script>
+  </body>
+</html>
+  ]]></content>
+<tabTrigger>html5</tabTrigger>
+<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<div class="media">
+  <div class="media-left media-right">
+    <a href="#">
+      <img class="media-object" src="${2:#}" alt="${3:圖片替代文字}">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">${4:標題}</h4>
+    <p>${5:說些什麼呢...}</p>
+  </div>
+</div>
+]]></content>
+	<tabTrigger>bs媒體</tabTrigger>
+</snippet>

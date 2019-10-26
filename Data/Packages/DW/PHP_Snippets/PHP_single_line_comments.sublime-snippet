@@ -1,0 +1,18 @@
+﻿<snippet>
+	<content><![CDATA[//Single line comment ]]></content>
+
+
+
+
+
+	<content><![CDATA[
+
+]]></content>
+
+
+
+<description>PHP single line comments</description>
+<tabTrigger>PHP</tabTrigger>
+</snippet>
+
+

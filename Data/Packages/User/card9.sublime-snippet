@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<div class="card">
+  <h3 class="card-header">Featured</h3>
+  <div class="card-block">
+    <h4 class="card-title">Special title treatment</h4>
+    <p class="card-text">將`.card-header`添加到`<h *>`元素來設置樣式。</p>
+    <a href="#" class="btn btn-primary">更多內容</a>
+  </div>
+</div>
+]]></content><tabTrigger>card</tabTrigger>
+    <description>Card headers1</description>
+</snippet>

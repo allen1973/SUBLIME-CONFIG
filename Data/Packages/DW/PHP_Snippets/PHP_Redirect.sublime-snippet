@@ -1,0 +1,13 @@
+﻿<snippet>
+	<content><![CDATA[<?php
+
+  header( 'Location: http://www.yoursite.com/new_page.html' ) ;
+
+?>]]></content>
+
+
+<description>PHP Redirect</description>
+<tabTrigger>PHP</tabTrigger>
+</snippet>
+
+

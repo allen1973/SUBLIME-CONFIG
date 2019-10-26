@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+top:0;
+right:0;
+bottom:0;
+left:0;
+margin:auto;
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>中間</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	
+</snippet>

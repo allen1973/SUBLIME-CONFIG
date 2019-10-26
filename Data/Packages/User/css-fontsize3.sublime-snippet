@@ -1,0 +1,117 @@
+<snippet>
+	<content><![CDATA[
+/*3:relative units*/
+
+
+html {
+ font-size: 16px;
+ line-height: 1.3;
+}
+
+@media screen and (min-width: 768px) {
+ html {
+ font-size: 18px;
+ line-height: 1.4;
+ }
+}
+
+@media screen and (min-width: 1200px) {
+ html {
+  font-size: 20px;
+  line-height: 1.414;
+ }
+}
+
+h1 {
+ font-size: 4.236rem;
+}
+
+h2 {
+ font-size: 2.618rem;
+
+h3 {
+ font-size: 1.618rem;
+}
+
+p {
+ font-size: 1rem;
+}
+
+/*relative units*/
+
+html {
+ font-size: 16px;
+ line-height: 1.3;
+}
+
+@media screen and (min-width: 768px) {
+ html {
+  font-size: 18px;
+  line-height: 1.4;
+ }
+}
+
+@media screen and (min-width: 1200px) {
+ html {
+  font-size: 20px;
+  line-height: 1.414;
+ }
+
+
+h1 {
+ font-size: 4.236rem;
+}
+
+@media screen and (min-width: 1200px) {
+ h1 {
+  font-size: 2.618rem;/* Font-size of h2 */
+ }
+}
+
+h2 {
+ font-size: 2.618rem;
+}
+
+@media screen and (min-width: 1200px) {
+ h2 {
+  font-size: 1.618rem;/* Font-size of h3 */
+ }
+}
+
+h3 {
+ font-size: 1.618rem;
+}
+
+@media screen and (min-width: 1200px) {
+ h3 {
+  font-size: 1.309rem;/* 0.618 / 2 + 1rem */
+ }
+}
+
+p {
+ font-size: 1rem;
+}
+
+/*4:CSS calc()*/
+
+@media screen and (min-width: 1200px) {
+ h1 {
+  font-size: calc(4.236rem * 0.7);
+ }
+
+ h2 {
+  font-size: calc(2.618rem * 0.7);
+ }
+
+ h3 {
+  font-size: calc(1.618rem * 0.7);
+ }
+}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>fontsize</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<description>格式字體大小:relative units</description>
+	<!-- <scope>text.html</scope> -->
+</snippet>

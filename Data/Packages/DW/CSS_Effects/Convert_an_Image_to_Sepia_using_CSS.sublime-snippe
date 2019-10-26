@@ -1,0 +1,1 @@
+﻿<snippet>	<content><![CDATA[img {  -webkit-filter: sepia(1);  filter: sepia(1);]]></content><description>Effect:Convert an Image to Sepia using CSS</description><tabTrigger>dwcss</tabTrigger></snippet>
