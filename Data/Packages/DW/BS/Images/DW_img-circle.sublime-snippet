@@ -1,9 +1,0 @@
-﻿<snippet>
-	<content><![CDATA[<!-- Clip image with an oval -->
-<img src="${1:...}" alt="${2:...}" class="img-circle">]]></content>
-
-
-<description>圓</description>
-<tabTrigger>bsimg</tabTrigger>
-</snippet>
-

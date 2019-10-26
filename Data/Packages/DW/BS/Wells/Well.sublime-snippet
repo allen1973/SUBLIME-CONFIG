@@ -1,7 +1,0 @@
-﻿<snippet>
-	<content><![CDATA[<div class="well">${1:Look, I'm in a well!}</div>]]></content>
-
-<description>well</description>
-<tabTrigger>well</tabTrigger>
-</snippet>
-

@@ -1,1 +1,0 @@
-﻿<snippet>	<content><![CDATA[img {  -webkit-filter: hue-rotate(${1:90deg});  filter: hue-rotate(${1:90deg});]]></content><description>Effect:圖片旋轉</description><tabTrigger>dwcss</tabTrigger></snippet>

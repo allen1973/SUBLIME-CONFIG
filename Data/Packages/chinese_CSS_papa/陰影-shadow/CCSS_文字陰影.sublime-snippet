@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-text-shadow: ${1:x距離}px ${2:y距離}px ${3:羽化}px ${4:色彩};
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>陰影</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
-</snippet>

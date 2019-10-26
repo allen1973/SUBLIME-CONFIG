@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-font-family:'Microsoft JhengHei', 'Microsoft JhengHei UI', 'Microsoft YaHei', 'Microsoft YaHei UI', 'Apple LiGothic','Heiti TC','LiHei Pro', Arial, 'PMingLiU', sans-serif;
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>字形</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
-</snippet>

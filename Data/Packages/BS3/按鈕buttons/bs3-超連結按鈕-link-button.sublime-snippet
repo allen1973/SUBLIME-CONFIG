@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<a href="#" class="btn btn-default" role="button">${1:確認}</a>
-]]></content>
-	<tabTrigger>bs按鈕</tabTrigger>
-</snippet>

@@ -1,7 +1,0 @@
-﻿<snippet>
-	<content><![CDATA[<!-- Clip image with an oval -->
-<img src="${1:...}" class="img-responsive" alt="{$2:Responsive image}">]]></content>
-<description>RWD</description>
-<tabTrigger>bsimg</tabTrigger>
-</snippet>
-

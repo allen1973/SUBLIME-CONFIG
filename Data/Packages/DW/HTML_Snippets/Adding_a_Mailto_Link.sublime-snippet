@@ -1,1 +1,0 @@
-﻿<snippet>	<content><![CDATA[<! -- Replace name@website.com with your email address --><a href="mailto:name@website.com">Email Us</a>  ]]></content><description>HTML: Quickly hyperlink text to an email address</description><tabTrigger>dw</tabTrigger></snippet>

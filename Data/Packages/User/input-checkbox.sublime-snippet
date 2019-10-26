@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[<input type="checkbox">]]>
-		<!-- ${2:checkbox|email|password|radio|submit|text} -->
-	</content>
-	<tabTrigger>問</tabTrigger>
-	<description>HTML - Input</description>
-	<!-- <scope>text.html</scope> -->
-</snippet>

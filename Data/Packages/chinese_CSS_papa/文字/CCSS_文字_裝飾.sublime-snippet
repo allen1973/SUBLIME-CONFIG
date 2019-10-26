@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-text-decoration: ${1:none} ${2:underline};
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>文字</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
-</snippet>

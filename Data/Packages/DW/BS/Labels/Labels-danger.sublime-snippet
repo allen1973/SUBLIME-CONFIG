@@ -1,9 +1,0 @@
-﻿<snippet>
-	<content><![CDATA[
-<span class="label label-danger">Danger</span>]]></content>
-
-
-<description>Danger</description>
-<tabTrigger>bslabel</tabTrigger>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-# Remove the breadcrumb
-remove_action( 'genesis_before_loop', 'genesis_do_breadcrumbs' );
-]]></content>
-	<tabTrigger>WPST</tabTrigger>
-	
-	<description>Remove Breadcrumb</description>
-</snippet>

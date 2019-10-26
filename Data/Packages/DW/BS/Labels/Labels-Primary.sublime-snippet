@@ -1,8 +1,0 @@
-﻿<snippet>
-	<content><![CDATA[<span class="label label-primary">Primary</span>]]></content>
-
-
-<description>primary</description>
-<tabTrigger>bslabel</tabTrigger>
-</snippet>
-

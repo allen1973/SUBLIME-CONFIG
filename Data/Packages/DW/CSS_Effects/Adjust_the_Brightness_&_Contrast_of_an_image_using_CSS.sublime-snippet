@@ -1,1 +1,0 @@
-﻿<snippet>	<content><![CDATA[img {  -webkit-filter: brightness(3);  filter: brightness(3);  -webkit-filter: contrast(4);  filter: contrast(4);}]]></content><description>CSS:Brightness image using CSS</description><tabTrigger>dwcss</tabTrigger></snippet>

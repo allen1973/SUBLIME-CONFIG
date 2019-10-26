@@ -1,1 +1,0 @@
-﻿<snippet>	<content><![CDATA[a[href],input[type='submit'],input[type='image'],label[for],select,button,.pointer {    cursor: pointer;}]]></content><description>滑鼠指標</description><tabTrigger>dwcursor</tabTrigger></snippet>

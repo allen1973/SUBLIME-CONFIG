@@ -1,1 +1,0 @@
-﻿<snippet>	<content><![CDATA[#container {    width: 800px;    /* Change this value to customize the content area*/    margin: 0 auto;}]]></content><description>container置中 </description><tabTrigger>dwcontainer</tabTrigger></snippet>

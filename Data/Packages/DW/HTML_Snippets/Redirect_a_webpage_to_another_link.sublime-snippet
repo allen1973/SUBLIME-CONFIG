@@ -1,1 +1,0 @@
-﻿<snippet>	<content><![CDATA[<meta http-equiv="refresh" content="0;url=${1:http://website.com/}" />]]></content><description>quickly redirect a url</description><tabTrigger>dw</tabTrigger></snippet>

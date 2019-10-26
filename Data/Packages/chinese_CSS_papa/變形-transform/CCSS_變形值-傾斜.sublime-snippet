@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-skew(${1:0}deg,${2:0}deg)
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>傾斜</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
-</snippet>
